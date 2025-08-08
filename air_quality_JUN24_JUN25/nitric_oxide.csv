@@ -1,0 +1,376 @@
+"Daily Mean data	    supplied by UK-air on 14/06/2025",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+All Data GMT hour ending,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Status: V=Verified P=Provisionaly Verified N=Not Verified S=Suspect,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Birmingham A4540 Roadside,,Birmingham Hall Green,,Birmingham Ladywood,,Burton-on-Trent Horninglow,,Cannock A5190 Roadside,,Coventry Allesley,,Coventry Binley Road,,Leamington Spa,,Leamington Spa Rugby Road,,Leominster,,Oldbury Birmingham Road,,Stoke-on-Trent A50 Roadside,,Stoke-on-Trent Centre,,Telford Hollinswood,,Walsall Woodlands,,West Bromwich Kenrick Park,
+Latitude,52.476145,,52.437553,,52.481346,,52.82105,,52.687298,,52.411628,,52.407708,,52.28881,,52.294884,,52.221593,,52.502436,,52.980436,,53.02821,,52.673471,,52.605641,,52.508342,
+Longitude,-1.874978,,-1.830956,,-1.918235,,-1.635718,,-1.980821,,-1.560189,,-1.490082,,-1.533119,,-1.542911,,-2.73684,,-2.003497,,-2.111898,,-2.175133,,-2.436692,,-2.030371,,-1.98607,
+Site Type,Urban Traffic,,Urban Background,,Urban Background,,Urban Background,,Urban Traffic,,Urban Background,,Urban Traffic,,Urban Background,,Urban Traffic,,Suburban Background,,Urban Traffic,,Urban Traffic,,Urban Background,,Urban Background,,Urban Background,,Urban Background,
+Zone,West Midlands,,West Midlands,,West Midlands,,West Midlands,,West Midlands,,West Midlands,,West Midlands,,West Midlands,,West Midlands,,West Midlands,,West Midlands,,West Midlands,,West Midlands,,West Midlands,,West Midlands,,West Midlands,
+Agglomeration,West Midlands Urban Area,,West Midlands Urban Area,,West Midlands Urban Area,,#N/A,,#N/A,,Coventry/Bedworth,,Coventry/Bedworth,,#N/A,,#N/A,,#N/A,,West Midlands Urban Area,,The Potteries,,The Potteries,,#N/A,,West Midlands Urban Area,,West Midlands Urban Area,
+Local Authority,Birmingham,,Birmingham,,Birmingham,,E Staffordshire,,Cannock,,Coventry,,Coventry,,Warwick,,Warwick,,Herefordshire,,Sandwell,,Stoke,,Stoke,,Telford,,Walsall,,Sandwell,
+Date,Nitric oxide,Status,Nitric oxide,Status,Nitric oxide,Status,Nitric oxide,Status,Nitric oxide,Status,Nitric oxide,Status,Nitric oxide,Status,Nitric oxide,Status,Nitric oxide,Status,Nitric oxide,Status,Nitric oxide,Status,Nitric oxide,Status,Nitric oxide,Status,Nitric oxide,Status,Nitric oxide,Status,Nitric oxide,Status
+09-06-2024,11,V ugm-3,,,1,V ugm-3,1,V ugm-3,2,V ugm-3,2,V ugm-3,11,V ugm-3,1,V ugm-3,1,V ugm-3,0,V ugm-3,6,V ugm-3,12,V ugm-3,3,V ugm-3,1,V ugm-3,1,V ugm-3,No data,V ugm-3
+10-06-2024,9,V ugm-3,,,2,V ugm-3,1,V ugm-3,4,V ugm-3,2,V ugm-3,9,V ugm-3,1,V ugm-3,2,V ugm-3,1,V ugm-3,6,V ugm-3,12,V ugm-3,8,V ugm-3,1,V ugm-3,1,V ugm-3,No data,V ugm-3
+11-06-2024,13,V ugm-3,,,1,V ugm-3,1,V ugm-3,4,V ugm-3,2,V ugm-3,12,V ugm-3,1,V ugm-3,2,V ugm-3,1,V ugm-3,7,V ugm-3,20,V ugm-3,7,V ugm-3,1,V ugm-3,1,V ugm-3,No data,V ugm-3
+12-06-2024,18,V ugm-3,,,1,V ugm-3,1,V ugm-3,3,V ugm-3,3,V ugm-3,13,V ugm-3,1,V ugm-3,2,V ugm-3,1,V ugm-3,10,V ugm-3,23,V ugm-3,6,V ugm-3,1,V ugm-3,1,V ugm-3,No data,V ugm-3
+13-06-2024,23,V ugm-3,,,1,V ugm-3,2,V ugm-3,2,V ugm-3,3,V ugm-3,10,V ugm-3,1,V ugm-3,1,V ugm-3,1,V ugm-3,19,V ugm-3,36,V ugm-3,5,V ugm-3,2,V ugm-3,1,V ugm-3,No data,V ugm-3
+14-06-2024,21,V ugm-3,,,1,V ugm-3,2,V ugm-3,3,V ugm-3,2,V ugm-3,10,V ugm-3,1,V ugm-3,1,V ugm-3,0,V ugm-3,16,V ugm-3,35,V ugm-3,5,V ugm-3,2,V ugm-3,1,V ugm-3,No data,V ugm-3
+15-06-2024,16,V ugm-3,,,1,V ugm-3,1,V ugm-3,2,V ugm-3,2,V ugm-3,12,V ugm-3,1,V ugm-3,1,V ugm-3,1,V ugm-3,9,V ugm-3,28,V ugm-3,7,V ugm-3,2,V ugm-3,1,V ugm-3,No data,V ugm-3
+16-06-2024,11,V ugm-3,,,1,V ugm-3,1,V ugm-3,1,V ugm-3,2,V ugm-3,10,V ugm-3,1,V ugm-3,1,V ugm-3,0,V ugm-3,7,V ugm-3,15,V ugm-3,2,V ugm-3,1,V ugm-3,1,V ugm-3,No data,V ugm-3
+17-06-2024,12,V ugm-3,,,1,V ugm-3,1,V ugm-3,3,V ugm-3,2,V ugm-3,11,V ugm-3,1,V ugm-3,1,V ugm-3,1,V ugm-3,10,V ugm-3,22,V ugm-3,5,V ugm-3,2,V ugm-3,1,V ugm-3,No data,V ugm-3
+18-06-2024,11,V ugm-3,,,1,V ugm-3,2,V ugm-3,4,V ugm-3,2,V ugm-3,9,V ugm-3,1,V ugm-3,2,V ugm-3,1,V ugm-3,7,V ugm-3,21,V ugm-3,7,V ugm-3,1,V ugm-3,1,V ugm-3,No data,V ugm-3
+19-06-2024,8,V ugm-3,,,1,V ugm-3,2,V ugm-3,5,V ugm-3,1,V ugm-3,3,V ugm-3,1,V ugm-3,2,V ugm-3,1,V ugm-3,6,V ugm-3,40,V ugm-3,4,V ugm-3,2,V ugm-3,1,V ugm-3,No data,V ugm-3
+20-06-2024,20,V ugm-3,,,1,V ugm-3,2,V ugm-3,3,V ugm-3,4,V ugm-3,10,V ugm-3,1,V ugm-3,2,V ugm-3,1,V ugm-3,15,V ugm-3,44,V ugm-3,9,V ugm-3,2,V ugm-3,1,V ugm-3,No data,V ugm-3
+21-06-2024,15,V ugm-3,,,1,V ugm-3,3,V ugm-3,2,V ugm-3,3,V ugm-3,10,V ugm-3,1,V ugm-3,1,V ugm-3,0,V ugm-3,13,V ugm-3,29,V ugm-3,5,V ugm-3,2,V ugm-3,2,V ugm-3,No data,V ugm-3
+22-06-2024,11,V ugm-3,,,1,V ugm-3,1,V ugm-3,2,V ugm-3,2,V ugm-3,11,V ugm-3,1,V ugm-3,1,V ugm-3,0,V ugm-3,7,V ugm-3,15,V ugm-3,4,V ugm-3,1,V ugm-3,1,V ugm-3,No data,V ugm-3
+23-06-2024,10,V ugm-3,,,1,V ugm-3,1,V ugm-3,1,V ugm-3,1,V ugm-3,9,V ugm-3,1,V ugm-3,1,V ugm-3,0,V ugm-3,7,V ugm-3,16,V ugm-3,4,V ugm-3,1,V ugm-3,0,V ugm-3,No data,V ugm-3
+24-06-2024,12,V ugm-3,,,2,V ugm-3,1,V ugm-3,3,V ugm-3,2,V ugm-3,9,V ugm-3,1,V ugm-3,2,V ugm-3,1,V ugm-3,16,V ugm-3,37,V ugm-3,6,V ugm-3,2,V ugm-3,2,V ugm-3,No data,V ugm-3
+25-06-2024,6,V ugm-3,,,2,V ugm-3,2,V ugm-3,5,V ugm-3,2,V ugm-3,4,V ugm-3,1,V ugm-3,2,V ugm-3,1,V ugm-3,7,V ugm-3,18,V ugm-3,9,V ugm-3,2,V ugm-3,1,V ugm-3,No data,V ugm-3
+26-06-2024,8,V ugm-3,,,1,V ugm-3,1,V ugm-3,3,V ugm-3,1,V ugm-3,6,V ugm-3,0,V ugm-3,2,V ugm-3,1,V ugm-3,9,V ugm-3,26,V ugm-3,3,V ugm-3,2,V ugm-3,1,V ugm-3,No data,V ugm-3
+27-06-2024,12,V ugm-3,,,1,V ugm-3,1,V ugm-3,2,V ugm-3,2,V ugm-3,10,V ugm-3,No data,V ugm-3,1,V ugm-3,0,V ugm-3,10,V ugm-3,16,V ugm-3,3,V ugm-3,2,V ugm-3,1,V ugm-3,No data,V ugm-3
+28-06-2024,16,V ugm-3,,,1,V ugm-3,1,V ugm-3,2,V ugm-3,3,V ugm-3,12,V ugm-3,1,V ugm-3,1,V ugm-3,1,V ugm-3,11,V ugm-3,20,V ugm-3,3,V ugm-3,2,V ugm-3,1,V ugm-3,No data,V ugm-3
+29-06-2024,13,V ugm-3,,,1,V ugm-3,1,V ugm-3,2,V ugm-3,2,V ugm-3,8,V ugm-3,1,V ugm-3,1,V ugm-3,1,V ugm-3,8,V ugm-3,23,V ugm-3,6,V ugm-3,1,V ugm-3,1,V ugm-3,No data,V ugm-3
+30-06-2024,8,V ugm-3,,,1,V ugm-3,1,V ugm-3,2,V ugm-3,2,V ugm-3,9,V ugm-3,1,V ugm-3,No data,V ugm-3,1,V ugm-3,4,V ugm-3,13,V ugm-3,4,V ugm-3,1,V ugm-3,0,V ugm-3,No data,V ugm-3
+01-07-2024,19,V ugm-3,,,1,V ugm-3,1,V ugm-3,4,V ugm-3,4,V ugm-3,16,V ugm-3,1,V ugm-3,2,V ugm-3,1,V ugm-3,14,V ugm-3,27,V ugm-3,6,V ugm-3,2,V ugm-3,1,V ugm-3,No data,V ugm-3
+02-07-2024,11,V ugm-3,,,1,V ugm-3,1,V ugm-3,3,V ugm-3,2,V ugm-3,10,V ugm-3,1,V ugm-3,1,V ugm-3,1,V ugm-3,7,V ugm-3,14,V ugm-3,8,V ugm-3,1,V ugm-3,1,V ugm-3,2,V ugm-3
+03-07-2024,19,V ugm-3,,,1,V ugm-3,1,V ugm-3,2,V ugm-3,3,V ugm-3,14,V ugm-3,1,V ugm-3,2,V ugm-3,1,V ugm-3,16,V ugm-3,32,V ugm-3,6,V ugm-3,2,V ugm-3,1,V ugm-3,2,V ugm-3
+04-07-2024,13,V ugm-3,,,1,V ugm-3,1,V ugm-3,2,V ugm-3,2,V ugm-3,11,V ugm-3,1,V ugm-3,1,V ugm-3,0,V ugm-3,10,V ugm-3,14,V ugm-3,3,V ugm-3,2,V ugm-3,1,V ugm-3,3,V ugm-3
+05-07-2024,19,V ugm-3,,,1,V ugm-3,1,V ugm-3,2,V ugm-3,2,V ugm-3,12,V ugm-3,1,V ugm-3,2,V ugm-3,1,V ugm-3,13,V ugm-3,22,V ugm-3,7,V ugm-3,1,V ugm-3,1,V ugm-3,2,V ugm-3
+06-07-2024,13,V ugm-3,,,1,V ugm-3,1,V ugm-3,2,V ugm-3,3,V ugm-3,14,V ugm-3,1,V ugm-3,2,V ugm-3,1,V ugm-3,9,V ugm-3,14,V ugm-3,4,V ugm-3,2,V ugm-3,1,V ugm-3,2,V ugm-3
+07-07-2024,14,V ugm-3,,,1,V ugm-3,1,V ugm-3,2,V ugm-3,3,V ugm-3,10,V ugm-3,1,V ugm-3,1,V ugm-3,1,V ugm-3,9,V ugm-3,22,V ugm-3,5,V ugm-3,2,V ugm-3,1,V ugm-3,2,V ugm-3
+08-07-2024,18,V ugm-3,,,2,V ugm-3,5,V ugm-3,5,V ugm-3,3,V ugm-3,11,V ugm-3,1,V ugm-3,3,V ugm-3,1,V ugm-3,18,V ugm-3,44,V ugm-3,6,V ugm-3,2,V ugm-3,3,V ugm-3,3,V ugm-3
+09-07-2024,No data,V ugm-3,,,2,V ugm-3,2,V ugm-3,3,V ugm-3,2,V ugm-3,12,V ugm-3,1,V ugm-3,2,V ugm-3,1,V ugm-3,19,V ugm-3,37,V ugm-3,5,V ugm-3,2,V ugm-3,2,V ugm-3,2,V ugm-3
+10-07-2024,No data,V ugm-3,,,2,V ugm-3,1,V ugm-3,1,V ugm-3,2,V ugm-3,11,V ugm-3,1,V ugm-3,1,V ugm-3,1,V ugm-3,12,V ugm-3,26,V ugm-3,5,V ugm-3,2,V ugm-3,1,V ugm-3,3,V ugm-3
+11-07-2024,13,V ugm-3,,,2,V ugm-3,2,V ugm-3,6,V ugm-3,3,V ugm-3,8,V ugm-3,1,V ugm-3,2,V ugm-3,1,V ugm-3,10,V ugm-3,37,V ugm-3,4,V ugm-3,2,V ugm-3,1,V ugm-3,3,V ugm-3
+12-07-2024,6,V ugm-3,,,2,V ugm-3,2,V ugm-3,8,V ugm-3,2,V ugm-3,6,V ugm-3,1,V ugm-3,2,V ugm-3,1,V ugm-3,9,V ugm-3,25,V ugm-3,12,V ugm-3,2,V ugm-3,1,V ugm-3,3,V ugm-3
+13-07-2024,15,V ugm-3,,,1,V ugm-3,1,V ugm-3,3,V ugm-3,2,V ugm-3,12,V ugm-3,1,V ugm-3,1,V ugm-3,1,V ugm-3,9,V ugm-3,21,V ugm-3,9,V ugm-3,1,V ugm-3,1,V ugm-3,2,V ugm-3
+14-07-2024,11,V ugm-3,,,1,V ugm-3,1,V ugm-3,3,V ugm-3,3,V ugm-3,12,V ugm-3,1,V ugm-3,1,V ugm-3,1,V ugm-3,9,V ugm-3,17,V ugm-3,5,V ugm-3,2,V ugm-3,1,V ugm-3,2,V ugm-3
+15-07-2024,17,V ugm-3,,,8,V ugm-3,4,V ugm-3,8,V ugm-3,5,V ugm-3,10,V ugm-3,1,V ugm-3,3,V ugm-3,2,V ugm-3,18,V ugm-3,36,V ugm-3,4,V ugm-3,3,V ugm-3,2,V ugm-3,5,V ugm-3
+16-07-2024,15,V ugm-3,,,No data,V ugm-3,1,V ugm-3,5,V ugm-3,2,V ugm-3,11,V ugm-3,1,V ugm-3,1,V ugm-3,1,V ugm-3,10,V ugm-3,24,V ugm-3,7,V ugm-3,1,V ugm-3,1,V ugm-3,2,V ugm-3
+17-07-2024,22,V ugm-3,,,No data,V ugm-3,2,V ugm-3,3,V ugm-3,4,V ugm-3,11,V ugm-3,1,V ugm-3,2,V ugm-3,1,V ugm-3,22,V ugm-3,42,V ugm-3,9,V ugm-3,2,V ugm-3,2,V ugm-3,3,V ugm-3
+18-07-2024,18,V ugm-3,,,2,V ugm-3,1,V ugm-3,2,V ugm-3,2,V ugm-3,10,V ugm-3,1,V ugm-3,1,V ugm-3,1,V ugm-3,18,V ugm-3,39,V ugm-3,6,V ugm-3,2,V ugm-3,1,V ugm-3,2,V ugm-3
+19-07-2024,16,V ugm-3,,,1,V ugm-3,1,V ugm-3,2,V ugm-3,3,V ugm-3,10,V ugm-3,1,V ugm-3,1,V ugm-3,1,V ugm-3,16,V ugm-3,34,V ugm-3,5,V ugm-3,2,V ugm-3,2,V ugm-3,2,V ugm-3
+20-07-2024,19,V ugm-3,,,1,V ugm-3,2,V ugm-3,1,V ugm-3,2,V ugm-3,11,V ugm-3,1,V ugm-3,1,V ugm-3,1,V ugm-3,15,V ugm-3,31,V ugm-3,7,V ugm-3,1,V ugm-3,1,V ugm-3,2,V ugm-3
+21-07-2024,12,V ugm-3,,,1,V ugm-3,1,V ugm-3,2,V ugm-3,2,V ugm-3,8,V ugm-3,1,V ugm-3,1,V ugm-3,0,V ugm-3,5,V ugm-3,18,V ugm-3,2,V ugm-3,1,V ugm-3,0,V ugm-3,1,V ugm-3
+22-07-2024,15,V ugm-3,,,1,V ugm-3,1,V ugm-3,2,V ugm-3,2,V ugm-3,10,V ugm-3,1,V ugm-3,1,V ugm-3,0,V ugm-3,13,V ugm-3,22,V ugm-3,5,V ugm-3,1,V ugm-3,1,V ugm-3,3,V ugm-3
+23-07-2024,9,V ugm-3,,,1,V ugm-3,1,V ugm-3,4,V ugm-3,2,V ugm-3,6,V ugm-3,1,V ugm-3,1,V ugm-3,1,V ugm-3,9,V ugm-3,15,V ugm-3,9,V ugm-3,1,V ugm-3,1,V ugm-3,2,V ugm-3
+24-07-2024,26,V ugm-3,,,2,V ugm-3,2,V ugm-3,3,V ugm-3,2,V ugm-3,11,V ugm-3,1,V ugm-3,2,V ugm-3,1,V ugm-3,20,V ugm-3,39,V ugm-3,6,V ugm-3,2,V ugm-3,2,V ugm-3,3,V ugm-3
+25-07-2024,17,V ugm-3,,,1,V ugm-3,1,V ugm-3,1,V ugm-3,2,V ugm-3,10,V ugm-3,1,V ugm-3,1,V ugm-3,1,V ugm-3,16,V ugm-3,26,V ugm-3,6,V ugm-3,2,V ugm-3,1,V ugm-3,3,V ugm-3
+26-07-2024,18,V ugm-3,,,1,V ugm-3,1,V ugm-3,3,V ugm-3,3,V ugm-3,14,V ugm-3,1,V ugm-3,1,V ugm-3,1,V ugm-3,15,V ugm-3,26,V ugm-3,5,V ugm-3,2,V ugm-3,1,V ugm-3,3,V ugm-3
+27-07-2024,17,V ugm-3,,,6,V ugm-3,3,V ugm-3,3,V ugm-3,4,V ugm-3,11,V ugm-3,1,V ugm-3,1,V ugm-3,1,V ugm-3,14,V ugm-3,22,V ugm-3,9,V ugm-3,2,V ugm-3,2,V ugm-3,5,V ugm-3
+28-07-2024,17,V ugm-3,,,3,V ugm-3,5,V ugm-3,2,V ugm-3,4,V ugm-3,12,V ugm-3,1,V ugm-3,2,V ugm-3,1,V ugm-3,12,V ugm-3,30,V ugm-3,7,V ugm-3,2,V ugm-3,2,V ugm-3,3,V ugm-3
+29-07-2024,14,V ugm-3,,,4,V ugm-3,4,V ugm-3,5,V ugm-3,5,V ugm-3,7,V ugm-3,1,V ugm-3,2,V ugm-3,2,V ugm-3,19,V ugm-3,35,V ugm-3,7,V ugm-3,3,V ugm-3,4,V ugm-3,4,V ugm-3
+30-07-2024,7,V ugm-3,,,1,V ugm-3,1,V ugm-3,3,V ugm-3,2,V ugm-3,2,V ugm-3,1,V ugm-3,2,V ugm-3,1,V ugm-3,7,V ugm-3,13,V ugm-3,9,V ugm-3,1,V ugm-3,1,V ugm-3,2,V ugm-3
+31-07-2024,5,V ugm-3,,,1,V ugm-3,1,V ugm-3,4,V ugm-3,1,V ugm-3,4,V ugm-3,0,V ugm-3,2,V ugm-3,1,V ugm-3,9,V ugm-3,28,V ugm-3,4,V ugm-3,2,V ugm-3,1,V ugm-3,2,V ugm-3
+01-08-2024,8,V ugm-3,,,1,V ugm-3,1,V ugm-3,4,V ugm-3,No data,V ugm-3,3,V ugm-3,1,V ugm-3,1,V ugm-3,1,V ugm-3,9,V ugm-3,20,V ugm-3,8,V ugm-3,1,V ugm-3,1,V ugm-3,3,V ugm-3
+02-08-2024,14,V ugm-3,,,1,V ugm-3,1,V ugm-3,2,V ugm-3,No data,V ugm-3,12,V ugm-3,1,V ugm-3,2,V ugm-3,0,V ugm-3,11,V ugm-3,25,V ugm-3,7,V ugm-3,1,V ugm-3,1,V ugm-3,No data,V ugm-3
+03-08-2024,12,V ugm-3,,,1,V ugm-3,1,V ugm-3,2,V ugm-3,No data,V ugm-3,9,V ugm-3,1,V ugm-3,1,V ugm-3,1,V ugm-3,7,V ugm-3,15,V ugm-3,5,V ugm-3,1,V ugm-3,1,V ugm-3,1,V ugm-3
+04-08-2024,12,V ugm-3,,,1,V ugm-3,1,V ugm-3,1,V ugm-3,No data,V ugm-3,10,V ugm-3,1,V ugm-3,1,V ugm-3,1,V ugm-3,7,V ugm-3,21,V ugm-3,3,V ugm-3,1,V ugm-3,1,V ugm-3,1,V ugm-3
+05-08-2024,15,V ugm-3,,,1,V ugm-3,1,V ugm-3,1,V ugm-3,No data,V ugm-3,8,V ugm-3,1,V ugm-3,1,V ugm-3,1,V ugm-3,14,V ugm-3,28,V ugm-3,6,V ugm-3,1,V ugm-3,1,V ugm-3,2,V ugm-3
+06-08-2024,16,V ugm-3,,,1,V ugm-3,1,V ugm-3,2,V ugm-3,No data,V ugm-3,11,V ugm-3,1,V ugm-3,1,V ugm-3,0,V ugm-3,13,V ugm-3,21,V ugm-3,5,V ugm-3,1,V ugm-3,1,V ugm-3,3,V ugm-3
+07-08-2024,15,V ugm-3,,,1,V ugm-3,1,V ugm-3,1,V ugm-3,No data,V ugm-3,10,V ugm-3,1,V ugm-3,1,V ugm-3,0,V ugm-3,11,V ugm-3,18,V ugm-3,4,V ugm-3,2,V ugm-3,1,V ugm-3,2,V ugm-3
+08-08-2024,18,V ugm-3,,,1,V ugm-3,1,V ugm-3,1,V ugm-3,No data,V ugm-3,10,V ugm-3,1,V ugm-3,1,V ugm-3,1,V ugm-3,17,V ugm-3,27,V ugm-3,6,V ugm-3,1,V ugm-3,1,V ugm-3,2,V ugm-3
+09-08-2024,12,V ugm-3,,,1,V ugm-3,1,V ugm-3,2,V ugm-3,2,V ugm-3,12,V ugm-3,1,V ugm-3,1,V ugm-3,0,V ugm-3,10,V ugm-3,14,V ugm-3,4,V ugm-3,1,V ugm-3,1,V ugm-3,2,V ugm-3
+10-08-2024,11,V ugm-3,,,2,V ugm-3,2,V ugm-3,2,V ugm-3,2,V ugm-3,9,V ugm-3,1,V ugm-3,1,V ugm-3,1,V ugm-3,11,V ugm-3,20,V ugm-3,10,V ugm-3,2,V ugm-3,1,V ugm-3,2,V ugm-3
+11-08-2024,14,V ugm-3,,,7,V ugm-3,2,V ugm-3,3,V ugm-3,2,V ugm-3,6,V ugm-3,0,V ugm-3,1,V ugm-3,1,V ugm-3,9,V ugm-3,24,V ugm-3,2,V ugm-3,3,V ugm-3,3,V ugm-3,2,V ugm-3
+12-08-2024,11,V ugm-3,,,1,V ugm-3,1,V ugm-3,3,V ugm-3,1,V ugm-3,8,V ugm-3,1,V ugm-3,1,V ugm-3,1,V ugm-3,10,V ugm-3,21,V ugm-3,6,V ugm-3,1,V ugm-3,1,V ugm-3,2,V ugm-3
+13-08-2024,18,V ugm-3,,,1,V ugm-3,2,V ugm-3,3,V ugm-3,3,V ugm-3,11,V ugm-3,2,V ugm-3,1,V ugm-3,1,V ugm-3,17,V ugm-3,37,V ugm-3,7,V ugm-3,2,V ugm-3,1,V ugm-3,3,V ugm-3
+14-08-2024,18,V ugm-3,,,2,V ugm-3,2,V ugm-3,4,V ugm-3,3,V ugm-3,9,V ugm-3,2,V ugm-3,2,V ugm-3,1,V ugm-3,13,V ugm-3,29,V ugm-3,8,V ugm-3,1,V ugm-3,1,V ugm-3,3,V ugm-3
+15-08-2024,16,V ugm-3,,,1,V ugm-3,1,V ugm-3,1,V ugm-3,2,V ugm-3,11,V ugm-3,6,V ugm-3,1,V ugm-3,1,V ugm-3,14,V ugm-3,25,V ugm-3,7,V ugm-3,1,V ugm-3,1,V ugm-3,3,V ugm-3
+16-08-2024,21,V ugm-3,,,3,V ugm-3,3,V ugm-3,5,V ugm-3,4,V ugm-3,9,V ugm-3,1,V ugm-3,2,V ugm-3,1,V ugm-3,21,V ugm-3,36,V ugm-3,11,V ugm-3,3,V ugm-3,2,V ugm-3,6,V ugm-3
+17-08-2024,12,V ugm-3,,,1,V ugm-3,3,V ugm-3,3,V ugm-3,2,V ugm-3,13,V ugm-3,1,V ugm-3,1,V ugm-3,1,V ugm-3,13,V ugm-3,23,V ugm-3,5,V ugm-3,1,V ugm-3,1,V ugm-3,3,V ugm-3
+18-08-2024,10,V ugm-3,,,1,V ugm-3,1,V ugm-3,1,V ugm-3,2,V ugm-3,8,V ugm-3,0,V ugm-3,1,V ugm-3,1,V ugm-3,6,V ugm-3,15,V ugm-3,2,V ugm-3,1,V ugm-3,1,V ugm-3,1,V ugm-3
+19-08-2024,18,V ugm-3,,,1,V ugm-3,1,V ugm-3,3,V ugm-3,3,V ugm-3,9,V ugm-3,1,V ugm-3,2,V ugm-3,1,V ugm-3,20,V ugm-3,35,V ugm-3,5,V ugm-3,2,V ugm-3,1,V ugm-3,2,V ugm-3
+20-08-2024,13,V ugm-3,,,1,V ugm-3,1,V ugm-3,2,V ugm-3,2,V ugm-3,11,V ugm-3,1,V ugm-3,1,V ugm-3,0,V ugm-3,12,V ugm-3,18,V ugm-3,3,V ugm-3,1,V ugm-3,1,V ugm-3,3,V ugm-3
+21-08-2024,13,V ugm-3,,,1,V ugm-3,1,V ugm-3,2,V ugm-3,2,V ugm-3,10,V ugm-3,1,V ugm-3,1,V ugm-3,0,V ugm-3,12,V ugm-3,20,V ugm-3,4,V ugm-3,1,V ugm-3,1,V ugm-3,3,V ugm-3
+22-08-2024,11,V ugm-3,,,1,V ugm-3,1,V ugm-3,1,V ugm-3,1,V ugm-3,6,V ugm-3,1,V ugm-3,1,V ugm-3,0,V ugm-3,9,V ugm-3,20,V ugm-3,6,V ugm-3,1,V ugm-3,1,V ugm-3,2,V ugm-3
+23-08-2024,13,V ugm-3,,,1,V ugm-3,1,V ugm-3,1,V ugm-3,2,V ugm-3,10,V ugm-3,1,V ugm-3,1,V ugm-3,0,V ugm-3,10,V ugm-3,16,V ugm-3,4,V ugm-3,1,V ugm-3,1,V ugm-3,2,V ugm-3
+24-08-2024,14,V ugm-3,,,1,V ugm-3,1,V ugm-3,1,V ugm-3,2,V ugm-3,12,V ugm-3,1,V ugm-3,1,V ugm-3,0,V ugm-3,10,V ugm-3,20,V ugm-3,6,V ugm-3,1,V ugm-3,1,V ugm-3,2,V ugm-3
+25-08-2024,10,V ugm-3,,,1,V ugm-3,1,V ugm-3,0,V ugm-3,1,V ugm-3,6,V ugm-3,1,V ugm-3,1,V ugm-3,0,V ugm-3,6,V ugm-3,13,V ugm-3,2,V ugm-3,1,V ugm-3,0,V ugm-3,1,V ugm-3
+26-08-2024,10,V ugm-3,,,1,V ugm-3,0,V ugm-3,1,V ugm-3,1,V ugm-3,8,V ugm-3,1,V ugm-3,1,V ugm-3,0,V ugm-3,6,V ugm-3,17,V ugm-3,2,V ugm-3,1,V ugm-3,1,V ugm-3,1,V ugm-3
+27-08-2024,20,V ugm-3,,,1,V ugm-3,1,V ugm-3,1,V ugm-3,2,V ugm-3,9,V ugm-3,1,V ugm-3,1,V ugm-3,0,V ugm-3,18,V ugm-3,34,V ugm-3,7,V ugm-3,1,V ugm-3,1,V ugm-3,2,V ugm-3
+28-08-2024,16,V ugm-3,,,3,V ugm-3,1,V ugm-3,5,V ugm-3,3,V ugm-3,11,V ugm-3,1,V ugm-3,2,V ugm-3,1,V ugm-3,17,V ugm-3,36,V ugm-3,5,V ugm-3,2,V ugm-3,2,V ugm-3,3,V ugm-3
+29-08-2024,22,V ugm-3,,,1,V ugm-3,1,V ugm-3,2,V ugm-3,2,V ugm-3,13,V ugm-3,3,V ugm-3,1,V ugm-3,0,V ugm-3,17,V ugm-3,32,V ugm-3,8,V ugm-3,1,V ugm-3,1,V ugm-3,3,V ugm-3
+30-08-2024,15,V ugm-3,,,4,V ugm-3,5,V ugm-3,9,V ugm-3,6,V ugm-3,9,V ugm-3,1,V ugm-3,3,V ugm-3,3,V ugm-3,18,V ugm-3,34,V ugm-3,10,V ugm-3,4,V ugm-3,2,V ugm-3,7,V ugm-3
+31-08-2024,3,V ugm-3,,,1,V ugm-3,1,V ugm-3,3,V ugm-3,1,V ugm-3,2,V ugm-3,1,V ugm-3,2,V ugm-3,1,V ugm-3,3,V ugm-3,17,V ugm-3,2,V ugm-3,1,V ugm-3,1,V ugm-3,1,V ugm-3
+01-09-2024,2,V ugm-3,,,1,V ugm-3,1,V ugm-3,3,V ugm-3,1,V ugm-3,1,V ugm-3,0,V ugm-3,1,V ugm-3,0,V ugm-3,3,V ugm-3,16,V ugm-3,1,V ugm-3,1,V ugm-3,0,V ugm-3,1,V ugm-3
+02-09-2024,15,V ugm-3,,,2,V ugm-3,1,V ugm-3,6,V ugm-3,2,V ugm-3,11,V ugm-3,1,V ugm-3,1,V ugm-3,1,V ugm-3,15,V ugm-3,30,V ugm-3,9,V ugm-3,1,V ugm-3,1,V ugm-3,No data,V ugm-3
+03-09-2024,14,V ugm-3,,,2,V ugm-3,1,V ugm-3,3,V ugm-3,5,V ugm-3,15,V ugm-3,2,V ugm-3,2,V ugm-3,0,V ugm-3,12,V ugm-3,16,V ugm-3,10,V ugm-3,1,V ugm-3,1,V ugm-3,No data,V ugm-3
+04-09-2024,15,V ugm-3,,,2,V ugm-3,1,V ugm-3,5,V ugm-3,4,V ugm-3,9,V ugm-3,1,V ugm-3,2,V ugm-3,1,V ugm-3,11,V ugm-3,22,V ugm-3,9,V ugm-3,1,V ugm-3,1,V ugm-3,No data,V ugm-3
+05-09-2024,3,V ugm-3,,,1,V ugm-3,1,V ugm-3,4,V ugm-3,1,V ugm-3,1,V ugm-3,1,V ugm-3,2,V ugm-3,0,V ugm-3,6,V ugm-3,22,V ugm-3,4,V ugm-3,1,V ugm-3,1,V ugm-3,No data,V ugm-3
+06-09-2024,2,V ugm-3,,,1,V ugm-3,1,V ugm-3,4,V ugm-3,1,V ugm-3,1,V ugm-3,0,V ugm-3,2,V ugm-3,0,V ugm-3,3,V ugm-3,24,V ugm-3,4,V ugm-3,1,V ugm-3,1,V ugm-3,1,V ugm-3
+07-09-2024,3,V ugm-3,,,1,V ugm-3,1,V ugm-3,4,V ugm-3,2,V ugm-3,2,V ugm-3,1,V ugm-3,2,V ugm-3,0,V ugm-3,5,V ugm-3,21,V ugm-3,3,V ugm-3,1,V ugm-3,1,V ugm-3,2,V ugm-3
+08-09-2024,9,V ugm-3,,,1,V ugm-3,1,V ugm-3,2,V ugm-3,2,V ugm-3,8,V ugm-3,1,V ugm-3,1,V ugm-3,0,V ugm-3,9,V ugm-3,27,V ugm-3,4,V ugm-3,1,V ugm-3,1,V ugm-3,2,V ugm-3
+09-09-2024,11,V ugm-3,,,1,V ugm-3,1,V ugm-3,3,V ugm-3,2,V ugm-3,11,V ugm-3,1,V ugm-3,1,V ugm-3,1,V ugm-3,9,V ugm-3,15,V ugm-3,6,V ugm-3,1,V ugm-3,1,V ugm-3,2,V ugm-3
+10-09-2024,16,V ugm-3,,,1,V ugm-3,1,V ugm-3,2,V ugm-3,3,V ugm-3,15,V ugm-3,1,V ugm-3,1,V ugm-3,0,V ugm-3,15,V ugm-3,16,V ugm-3,4,V ugm-3,1,V ugm-3,1,V ugm-3,3,V ugm-3
+11-09-2024,16,V ugm-3,,,2,V ugm-3,1,V ugm-3,4,V ugm-3,3,V ugm-3,17,V ugm-3,2,V ugm-3,1,V ugm-3,1,V ugm-3,13,V ugm-3,22,V ugm-3,5,V ugm-3,1,V ugm-3,1,V ugm-3,3,V ugm-3
+12-09-2024,17,V ugm-3,No data,V ugm-3,3,V ugm-3,2,V ugm-3,6,V ugm-3,4,V ugm-3,11,V ugm-3,2,V ugm-3,2,V ugm-3,2,V ugm-3,17,V ugm-3,31,V ugm-3,10,V ugm-3,2,V ugm-3,1,V ugm-3,3,V ugm-3
+13-09-2024,42,V ugm-3,No data,V ugm-3,5,V ugm-3,20,V ugm-3,10,V ugm-3,12,V ugm-3,26,V ugm-3,9,V ugm-3,5,V ugm-3,2,V ugm-3,38,V ugm-3,51,V ugm-3,11,V ugm-3,5,V ugm-3,3,V ugm-3,14,V ugm-3
+14-09-2024,21,V ugm-3,No data,V ugm-3,1,V ugm-3,1,V ugm-3,1,V ugm-3,3,V ugm-3,15,V ugm-3,1,V ugm-3,1,V ugm-3,1,V ugm-3,13,V ugm-3,20,V ugm-3,5,V ugm-3,1,V ugm-3,1,V ugm-3,2,V ugm-3
+15-09-2024,13,V ugm-3,No data,V ugm-3,1,V ugm-3,1,V ugm-3,1,V ugm-3,2,V ugm-3,12,V ugm-3,0,V ugm-3,1,V ugm-3,0,V ugm-3,8,V ugm-3,21,V ugm-3,4,V ugm-3,1,V ugm-3,1,V ugm-3,2,V ugm-3
+16-09-2024,17,V ugm-3,No data,V ugm-3,10,V ugm-3,18,V ugm-3,8,V ugm-3,5,V ugm-3,5,V ugm-3,3,V ugm-3,4,V ugm-3,2,V ugm-3,21,V ugm-3,43,V ugm-3,11,V ugm-3,15,V ugm-3,1,V ugm-3,3,V ugm-3
+17-09-2024,24,V ugm-3,No data,V ugm-3,13,V ugm-3,5,V ugm-3,12,V ugm-3,6,V ugm-3,4,V ugm-3,2,V ugm-3,4,V ugm-3,6,V ugm-3,30,V ugm-3,51,V ugm-3,4,V ugm-3,12,V ugm-3,3,V ugm-3,14,V ugm-3
+18-09-2024,2,V ugm-3,No data,V ugm-3,1,V ugm-3,1,V ugm-3,6,V ugm-3,1,V ugm-3,2,V ugm-3,1,V ugm-3,2,V ugm-3,1,V ugm-3,3,V ugm-3,23,V ugm-3,2,V ugm-3,1,V ugm-3,1,V ugm-3,2,V ugm-3
+19-09-2024,3,V ugm-3,No data,V ugm-3,1,V ugm-3,1,V ugm-3,4,V ugm-3,1,V ugm-3,1,V ugm-3,1,V ugm-3,2,V ugm-3,1,V ugm-3,3,V ugm-3,28,V ugm-3,6,V ugm-3,1,V ugm-3,1,V ugm-3,1,V ugm-3
+20-09-2024,2,V ugm-3,No data,V ugm-3,1,V ugm-3,1,V ugm-3,4,V ugm-3,1,V ugm-3,1,V ugm-3,1,V ugm-3,2,V ugm-3,0,V ugm-3,3,V ugm-3,25,V ugm-3,3,V ugm-3,1,V ugm-3,1,V ugm-3,1,V ugm-3
+21-09-2024,3,V ugm-3,No data,V ugm-3,1,V ugm-3,1,V ugm-3,3,V ugm-3,1,V ugm-3,3,V ugm-3,0,V ugm-3,2,V ugm-3,0,V ugm-3,5,V ugm-3,17,V ugm-3,2,V ugm-3,1,V ugm-3,0,V ugm-3,2,V ugm-3
+22-09-2024,1,V ugm-3,No data,V ugm-3,1,V ugm-3,1,V ugm-3,2,V ugm-3,1,V ugm-3,1,V ugm-3,0,V ugm-3,1,V ugm-3,0,V ugm-3,2,V ugm-3,14,V ugm-3,1,V ugm-3,1,V ugm-3,0,V ugm-3,1,V ugm-3
+23-09-2024,6,V ugm-3,No data,V ugm-3,1,V ugm-3,1,V ugm-3,4,V ugm-3,1,V ugm-3,6,V ugm-3,1,V ugm-3,1,V ugm-3,1,V ugm-3,7,V ugm-3,19,V ugm-3,8,V ugm-3,1,V ugm-3,0,V ugm-3,1,V ugm-3
+24-09-2024,16,V ugm-3,No data,V ugm-3,2,V ugm-3,1,V ugm-3,3,V ugm-3,3,V ugm-3,16,V ugm-3,1,V ugm-3,1,V ugm-3,0,V ugm-3,12,V ugm-3,24,V ugm-3,4,V ugm-3,1,V ugm-3,1,V ugm-3,2,V ugm-3
+25-09-2024,23,V ugm-3,No data,V ugm-3,3,V ugm-3,3,V ugm-3,6,V ugm-3,2,V ugm-3,14,V ugm-3,1,V ugm-3,2,V ugm-3,1,V ugm-3,25,V ugm-3,48,V ugm-3,5,V ugm-3,2,V ugm-3,2,V ugm-3,3,V ugm-3
+26-09-2024,13,V ugm-3,No data,V ugm-3,3,V ugm-3,2,V ugm-3,10,V ugm-3,4,V ugm-3,8,V ugm-3,1,V ugm-3,3,V ugm-3,1,V ugm-3,18,V ugm-3,40,V ugm-3,9,V ugm-3,1,V ugm-3,2,V ugm-3,3,V ugm-3
+27-09-2024,13,V ugm-3,No data,V ugm-3,2,V ugm-3,1,V ugm-3,3,V ugm-3,3,V ugm-3,13,V ugm-3,1,V ugm-3,1,V ugm-3,1,V ugm-3,8,V ugm-3,16,V ugm-3,13,V ugm-3,1,V ugm-3,1,V ugm-3,2,V ugm-3
+28-09-2024,24,V ugm-3,No data,V ugm-3,2,V ugm-3,2,V ugm-3,5,V ugm-3,6,V ugm-3,21,V ugm-3,3,V ugm-3,2,V ugm-3,1,V ugm-3,15,V ugm-3,32,V ugm-3,9,V ugm-3,3,V ugm-3,1,V ugm-3,3,V ugm-3
+29-09-2024,11,V ugm-3,No data,V ugm-3,6,V ugm-3,5,V ugm-3,4,V ugm-3,2,V ugm-3,9,V ugm-3,1,V ugm-3,3,V ugm-3,1,V ugm-3,9,V ugm-3,25,V ugm-3,3,V ugm-3,3,V ugm-3,3,V ugm-3,1,V ugm-3
+30-09-2024,14,V ugm-3,No data,V ugm-3,2,V ugm-3,2,V ugm-3,5,V ugm-3,2,V ugm-3,12,V ugm-3,2,V ugm-3,2,V ugm-3,1,V ugm-3,11,V ugm-3,22,V ugm-3,13,V ugm-3,1,V ugm-3,2,V ugm-3,3,V ugm-3
+01-10-2024,13,V ugm-3,No data,V ugm-3,2,V ugm-3,1,V ugm-3,4,V ugm-3,2,V ugm-3,11,V ugm-3,2,V ugm-3,1,V ugm-3,1,V ugm-3,9,V ugm-3,13,V ugm-3,12,V ugm-3,1,V ugm-3,1,V ugm-3,2,V ugm-3
+02-10-2024,3,V ugm-3,No data,V ugm-3,2,V ugm-3,1,V ugm-3,5,V ugm-3,1,V ugm-3,2,V ugm-3,1,V ugm-3,3,V ugm-3,1,V ugm-3,4,V ugm-3,27,V ugm-3,6,V ugm-3,1,V ugm-3,1,V ugm-3,2,V ugm-3
+03-10-2024,17,V ugm-3,No data,V ugm-3,11,V ugm-3,8,V ugm-3,10,V ugm-3,8,V ugm-3,6,V ugm-3,2,V ugm-3,7,V ugm-3,6,V ugm-3,36,V ugm-3,38,V ugm-3,9,V ugm-3,16,V ugm-3,2,V ugm-3,13,V ugm-3
+04-10-2024,43,V ugm-3,No data,V ugm-3,4,V ugm-3,10,V ugm-3,12,V ugm-3,15,V ugm-3,27,V ugm-3,3,V ugm-3,9,V ugm-3,6,V ugm-3,31,V ugm-3,54,V ugm-3,7,V ugm-3,11,V ugm-3,7,V ugm-3,7,V ugm-3
+05-10-2024,13,V ugm-3,No data,V ugm-3,3,V ugm-3,5,V ugm-3,4,V ugm-3,3,V ugm-3,14,V ugm-3,1,V ugm-3,3,V ugm-3,1,V ugm-3,15,V ugm-3,31,V ugm-3,5,V ugm-3,2,V ugm-3,1,V ugm-3,2,V ugm-3
+06-10-2024,9,V ugm-3,No data,V ugm-3,3,V ugm-3,1,V ugm-3,3,V ugm-3,1,V ugm-3,12,V ugm-3,1,V ugm-3,3,V ugm-3,1,V ugm-3,11,V ugm-3,29,V ugm-3,3,V ugm-3,2,V ugm-3,1,V ugm-3,2,V ugm-3
+07-10-2024,16,V ugm-3,No data,V ugm-3,2,V ugm-3,2,V ugm-3,3,V ugm-3,3,V ugm-3,12,V ugm-3,1,V ugm-3,2,V ugm-3,1,V ugm-3,21,V ugm-3,47,V ugm-3,6,V ugm-3,2,V ugm-3,1,V ugm-3,3,V ugm-3
+08-10-2024,11,V ugm-3,1,V ugm-3,2,V ugm-3,2,V ugm-3,6,V ugm-3,1,V ugm-3,13,V ugm-3,1,V ugm-3,5,V ugm-3,1,V ugm-3,23,V ugm-3,45,V ugm-3,5,V ugm-3,2,V ugm-3,1,V ugm-3,3,V ugm-3
+09-10-2024,15,V ugm-3,2,V ugm-3,3,V ugm-3,2,V ugm-3,6,V ugm-3,3,V ugm-3,8,V ugm-3,2,V ugm-3,2,V ugm-3,1,V ugm-3,10,V ugm-3,19,V ugm-3,12,V ugm-3,1,V ugm-3,1,V ugm-3,2,V ugm-3
+10-10-2024,14,V ugm-3,2,V ugm-3,3,V ugm-3,2,V ugm-3,6,V ugm-3,7,V ugm-3,10,V ugm-3,2,V ugm-3,2,V ugm-3,1,V ugm-3,16,V ugm-3,23,V ugm-3,15,V ugm-3,2,V ugm-3,1,V ugm-3,3,V ugm-3
+11-10-2024,59,V ugm-3,8,V ugm-3,11,V ugm-3,12,V ugm-3,16,V ugm-3,27,V ugm-3,33,V ugm-3,5,V ugm-3,6,V ugm-3,5,V ugm-3,42,V ugm-3,60,V ugm-3,10,V ugm-3,15,V ugm-3,15,V ugm-3,8,V ugm-3
+12-10-2024,24,V ugm-3,1,V ugm-3,2,V ugm-3,4,V ugm-3,3,V ugm-3,3,V ugm-3,14,V ugm-3,1,V ugm-3,2,V ugm-3,1,V ugm-3,14,V ugm-3,23,V ugm-3,6,V ugm-3,2,V ugm-3,3,V ugm-3,4,V ugm-3
+13-10-2024,14,V ugm-3,1,V ugm-3,3,V ugm-3,2,V ugm-3,4,V ugm-3,3,V ugm-3,13,V ugm-3,1,V ugm-3,2,V ugm-3,1,V ugm-3,13,V ugm-3,40,V ugm-3,6,V ugm-3,2,V ugm-3,1,V ugm-3,2,V ugm-3
+14-10-2024,7,V ugm-3,2,V ugm-3,3,V ugm-3,2,V ugm-3,10,V ugm-3,1,V ugm-3,4,V ugm-3,2,V ugm-3,4,V ugm-3,1,V ugm-3,10,V ugm-3,32,V ugm-3,3,V ugm-3,2,V ugm-3,1,V ugm-3,3,V ugm-3
+15-10-2024,9,V ugm-3,2,V ugm-3,11,V ugm-3,3,V ugm-3,10,V ugm-3,2,V ugm-3,15,V ugm-3,2,V ugm-3,7,V ugm-3,1,V ugm-3,20,V ugm-3,26,V ugm-3,4,V ugm-3,3,V ugm-3,2,V ugm-3,5,V ugm-3
+16-10-2024,16,V ugm-3,2,V ugm-3,10,V ugm-3,4,V ugm-3,6,V ugm-3,2,V ugm-3,20,V ugm-3,1,V ugm-3,6,V ugm-3,1,V ugm-3,26,V ugm-3,47,V ugm-3,10,V ugm-3,2,V ugm-3,3,V ugm-3,5,V ugm-3
+17-10-2024,44,V ugm-3,1,V ugm-3,2,V ugm-3,6,V ugm-3,2,V ugm-3,7,V ugm-3,19,V ugm-3,2,V ugm-3,1,V ugm-3,2,V ugm-3,29,V ugm-3,48,V ugm-3,9,V ugm-3,9,V ugm-3,2,V ugm-3,3,V ugm-3
+18-10-2024,29,V ugm-3,1,V ugm-3,1,V ugm-3,8,V ugm-3,4,V ugm-3,3,V ugm-3,15,V ugm-3,2,V ugm-3,1,V ugm-3,1,V ugm-3,23,V ugm-3,46,V ugm-3,6,V ugm-3,4,V ugm-3,3,V ugm-3,3,V ugm-3
+19-10-2024,27,V ugm-3,2,V ugm-3,3,V ugm-3,8,V ugm-3,3,V ugm-3,5,V ugm-3,20,V ugm-3,1,V ugm-3,1,V ugm-3,1,V ugm-3,20,V ugm-3,33,V ugm-3,6,V ugm-3,6,V ugm-3,3,V ugm-3,4,V ugm-3
+20-10-2024,8,V ugm-3,1,V ugm-3,1,V ugm-3,0,V ugm-3,0,V ugm-3,1,V ugm-3,6,V ugm-3,0,V ugm-3,1,V ugm-3,0,V ugm-3,5,V ugm-3,11,V ugm-3,2,V ugm-3,1,V ugm-3,0,V ugm-3,1,V ugm-3
+21-10-2024,31,V ugm-3,1,V ugm-3,1,V ugm-3,2,V ugm-3,1,V ugm-3,4,V ugm-3,19,V ugm-3,3,V ugm-3,2,V ugm-3,0,V ugm-3,19,V ugm-3,37,V ugm-3,5,V ugm-3,8,V ugm-3,2,V ugm-3,3,V ugm-3
+22-10-2024,40,V ugm-3,2,V ugm-3,5,V ugm-3,18,V ugm-3,13,V ugm-3,11,V ugm-3,23,V ugm-3,3,V ugm-3,4,V ugm-3,1,V ugm-3,30,V ugm-3,73,V ugm-3,15,V ugm-3,20,V ugm-3,9,V ugm-3,5,V ugm-3
+23-10-2024,28,V ugm-3,1,V ugm-3,2,V ugm-3,3,V ugm-3,2,V ugm-3,7,V ugm-3,23,V ugm-3,2,V ugm-3,5,V ugm-3,4,V ugm-3,27,V ugm-3,59,V ugm-3,7,V ugm-3,5,V ugm-3,3,V ugm-3,3,V ugm-3
+24-10-2024,11,V ugm-3,1,V ugm-3,5,V ugm-3,2,V ugm-3,3,V ugm-3,1,V ugm-3,14,V ugm-3,1,V ugm-3,4,V ugm-3,1,V ugm-3,24,V ugm-3,47,V ugm-3,4,V ugm-3,2,V ugm-3,2,V ugm-3,No data,V ugm-3
+25-10-2024,30,V ugm-3,4,V ugm-3,9,V ugm-3,5,V ugm-3,16,V ugm-3,11,V ugm-3,27,V ugm-3,3,V ugm-3,10,V ugm-3,2,V ugm-3,36,V ugm-3,47,V ugm-3,6,V ugm-3,5,V ugm-3,7,V ugm-3,No data,V ugm-3
+26-10-2024,53,V ugm-3,7,V ugm-3,14,V ugm-3,14,V ugm-3,11,V ugm-3,29,V ugm-3,41,V ugm-3,6,V ugm-3,11,V ugm-3,3,V ugm-3,37,V ugm-3,53,V ugm-3,9,V ugm-3,16,V ugm-3,9,V ugm-3,No data,V ugm-3
+27-10-2024,14,V ugm-3,1,V ugm-3,1,V ugm-3,2,V ugm-3,2,V ugm-3,3,V ugm-3,13,V ugm-3,2,V ugm-3,2,V ugm-3,1,V ugm-3,11,V ugm-3,29,V ugm-3,3,V ugm-3,2,V ugm-3,1,V ugm-3,No data,V ugm-3
+28-10-2024,28,V ugm-3,1,V ugm-3,1,V ugm-3,4,V ugm-3,2,V ugm-3,3,V ugm-3,15,V ugm-3,1,V ugm-3,1,V ugm-3,1,V ugm-3,17,V ugm-3,30,V ugm-3,8,V ugm-3,2,V ugm-3,1,V ugm-3,No data,V ugm-3
+29-10-2024,28,V ugm-3,3,V ugm-3,4,V ugm-3,2,V ugm-3,6,V ugm-3,5,V ugm-3,19,V ugm-3,2,V ugm-3,2,V ugm-3,1,V ugm-3,24,V ugm-3,23,V ugm-3,12,V ugm-3,2,V ugm-3,1,V ugm-3,No data,V ugm-3
+30-10-2024,21,V ugm-3,1,V ugm-3,2,V ugm-3,2,V ugm-3,5,V ugm-3,3,V ugm-3,14,V ugm-3,1,V ugm-3,2,V ugm-3,1,V ugm-3,18,V ugm-3,38,V ugm-3,9,V ugm-3,1,V ugm-3,1,V ugm-3,2,V ugm-3
+31-10-2024,50,V ugm-3,7,V ugm-3,6,V ugm-3,4,V ugm-3,11,V ugm-3,12,V ugm-3,30,V ugm-3,8,V ugm-3,13,V ugm-3,1,V ugm-3,41,V ugm-3,38,V ugm-3,11,V ugm-3,26,V ugm-3,8,V ugm-3,12,V ugm-3
+01-11-2024,20,V ugm-3,1,V ugm-3,2,V ugm-3,2,V ugm-3,5,V ugm-3,4,V ugm-3,18,V ugm-3,3,V ugm-3,2,V ugm-3,1,V ugm-3,13,V ugm-3,23,V ugm-3,14,V ugm-3,1,V ugm-3,1,V ugm-3,2,V ugm-3
+02-11-2024,9,V ugm-3,2,V ugm-3,8,V ugm-3,3,V ugm-3,10,V ugm-3,1,V ugm-3,11,V ugm-3,1,V ugm-3,3,V ugm-3,0,V ugm-3,16,V ugm-3,52,V ugm-3,7,V ugm-3,5,V ugm-3,1,V ugm-3,4,V ugm-3
+03-11-2024,5,V ugm-3,1,V ugm-3,5,V ugm-3,1,V ugm-3,7,V ugm-3,1,V ugm-3,6,V ugm-3,1,V ugm-3,2,V ugm-3,1,V ugm-3,9,V ugm-3,36,V ugm-3,2,V ugm-3,1,V ugm-3,1,V ugm-3,2,V ugm-3
+04-11-2024,12,V ugm-3,3,V ugm-3,6,V ugm-3,3,V ugm-3,17,V ugm-3,1,V ugm-3,12,V ugm-3,2,V ugm-3,5,V ugm-3,1,V ugm-3,23,V ugm-3,50,V ugm-3,4,V ugm-3,3,V ugm-3,2,V ugm-3,5,V ugm-3
+05-11-2024,27,V ugm-3,1,V ugm-3,3,V ugm-3,4,V ugm-3,6,V ugm-3,3,V ugm-3,23,V ugm-3,1,V ugm-3,3,V ugm-3,1,V ugm-3,36,V ugm-3,74,V ugm-3,9,V ugm-3,3,V ugm-3,3,V ugm-3,6,V ugm-3
+06-11-2024,29,V ugm-3,5,V ugm-3,13,V ugm-3,6,V ugm-3,16,V ugm-3,6,V ugm-3,24,V ugm-3,2,V ugm-3,8,V ugm-3,2,V ugm-3,47,V ugm-3,69,V ugm-3,8,V ugm-3,5,V ugm-3,14,V ugm-3,14,V ugm-3
+07-11-2024,12,V ugm-3,2,V ugm-3,17,V ugm-3,5,V ugm-3,5,V ugm-3,2,V ugm-3,25,V ugm-3,2,V ugm-3,7,V ugm-3,1,V ugm-3,33,V ugm-3,58,V ugm-3,4,V ugm-3,2,V ugm-3,2,V ugm-3,4,V ugm-3
+08-11-2024,10,V ugm-3,3,V ugm-3,7,V ugm-3,2,V ugm-3,15,V ugm-3,1,V ugm-3,12,V ugm-3,2,V ugm-3,5,V ugm-3,1,V ugm-3,21,V ugm-3,51,V ugm-3,4,V ugm-3,3,V ugm-3,1,V ugm-3,4,V ugm-3
+09-11-2024,26,V ugm-3,1,V ugm-3,2,V ugm-3,2,V ugm-3,7,V ugm-3,4,V ugm-3,14,V ugm-3,1,V ugm-3,3,V ugm-3,1,V ugm-3,23,V ugm-3,60,V ugm-3,7,V ugm-3,2,V ugm-3,2,V ugm-3,4,V ugm-3
+10-11-2024,23,V ugm-3,1,V ugm-3,2,V ugm-3,4,V ugm-3,3,V ugm-3,5,V ugm-3,22,V ugm-3,2,V ugm-3,2,V ugm-3,1,V ugm-3,13,V ugm-3,36,V ugm-3,7,V ugm-3,3,V ugm-3,2,V ugm-3,3,V ugm-3
+11-11-2024,26,V ugm-3,7,V ugm-3,11,V ugm-3,5,V ugm-3,9,V ugm-3,7,V ugm-3,12,V ugm-3,6,V ugm-3,9,V ugm-3,4,V ugm-3,36,V ugm-3,35,V ugm-3,25,V ugm-3,10,V ugm-3,4,V ugm-3,8,V ugm-3
+12-11-2024,9,V ugm-3,6,V ugm-3,6,V ugm-3,4,V ugm-3,12,V ugm-3,2,V ugm-3,3,V ugm-3,2,V ugm-3,3,V ugm-3,10,V ugm-3,30,V ugm-3,44,V ugm-3,24,V ugm-3,5,V ugm-3,4,V ugm-3,6,V ugm-3
+13-11-2024,28,V ugm-3,11,V ugm-3,14,V ugm-3,17,V ugm-3,11,V ugm-3,12,V ugm-3,27,V ugm-3,12,V ugm-3,14,V ugm-3,15,V ugm-3,39,V ugm-3,41,V ugm-3,28,V ugm-3,7,V ugm-3,4,V ugm-3,11,V ugm-3
+14-11-2024,59,V ugm-3,32,V ugm-3,16,V ugm-3,16,V ugm-3,22,V ugm-3,12,V ugm-3,27,V ugm-3,2,V ugm-3,12,V ugm-3,3,V ugm-3,54,V ugm-3,86,V ugm-3,27,V ugm-3,59,V ugm-3,12,V ugm-3,16,V ugm-3
+15-11-2024,60,V ugm-3,4,V ugm-3,4,V ugm-3,31,V ugm-3,13,V ugm-3,19,V ugm-3,50,V ugm-3,8,V ugm-3,11,V ugm-3,4,V ugm-3,35,V ugm-3,64,V ugm-3,24,V ugm-3,27,V ugm-3,27,V ugm-3,11,V ugm-3
+16-11-2024,16,V ugm-3,1,V ugm-3,1,V ugm-3,1,V ugm-3,3,V ugm-3,3,V ugm-3,17,V ugm-3,1,V ugm-3,1,V ugm-3,0,V ugm-3,9,V ugm-3,16,V ugm-3,8,V ugm-3,1,V ugm-3,1,V ugm-3,2,V ugm-3
+17-11-2024,17,V ugm-3,1,V ugm-3,1,V ugm-3,1,V ugm-3,2,V ugm-3,3,V ugm-3,16,V ugm-3,1,V ugm-3,1,V ugm-3,1,V ugm-3,10,V ugm-3,21,V ugm-3,4,V ugm-3,1,V ugm-3,1,V ugm-3,2,V ugm-3
+18-11-2024,14,V ugm-3,3,V ugm-3,7,V ugm-3,4,V ugm-3,18,V ugm-3,5,V ugm-3,12,V ugm-3,2,V ugm-3,6,V ugm-3,3,V ugm-3,23,V ugm-3,53,V ugm-3,5,V ugm-3,4,V ugm-3,3,V ugm-3,6,V ugm-3
+19-11-2024,18,V ugm-3,6,V ugm-3,4,V ugm-3,3,V ugm-3,10,V ugm-3,3,V ugm-3,9,V ugm-3,3,V ugm-3,4,V ugm-3,1,V ugm-3,16,V ugm-3,29,V ugm-3,23,V ugm-3,4,V ugm-3,2,V ugm-3,5,V ugm-3
+20-11-2024,31,V ugm-3,2,V ugm-3,3,V ugm-3,5,V ugm-3,7,V ugm-3,6,V ugm-3,29,V ugm-3,6,V ugm-3,4,V ugm-3,2,V ugm-3,32,V ugm-3,38,V ugm-3,14,V ugm-3,2,V ugm-3,2,V ugm-3,9,V ugm-3
+21-11-2024,74,V ugm-3,22,V ugm-3,36,V ugm-3,21,V ugm-3,29,V ugm-3,26,V ugm-3,50,V ugm-3,17,V ugm-3,20,V ugm-3,2,V ugm-3,97,V ugm-3,81,V ugm-3,24,V ugm-3,29,V ugm-3,34,V ugm-3,51,V ugm-3
+22-11-2024,33,V ugm-3,1,V ugm-3,2,V ugm-3,4,V ugm-3,5,V ugm-3,8,V ugm-3,28,V ugm-3,4,V ugm-3,3,V ugm-3,2,V ugm-3,23,V ugm-3,39,V ugm-3,13,V ugm-3,12,V ugm-3,3,V ugm-3,5,V ugm-3
+23-11-2024,12,V ugm-3,1,V ugm-3,2,V ugm-3,1,V ugm-3,0,V ugm-3,2,V ugm-3,8,V ugm-3,1,V ugm-3,1,V ugm-3,0,V ugm-3,7,V ugm-3,18,V ugm-3,5,V ugm-3,1,V ugm-3,0,V ugm-3,1,V ugm-3
+24-11-2024,7,V ugm-3,0,V ugm-3,0,V ugm-3,0,V ugm-3,0,V ugm-3,1,V ugm-3,6,V ugm-3,0,V ugm-3,1,V ugm-3,0,V ugm-3,4,V ugm-3,11,V ugm-3,2,V ugm-3,1,V ugm-3,0,V ugm-3,No data,V ugm-3
+25-11-2024,15,V ugm-3,1,V ugm-3,1,V ugm-3,1,V ugm-3,1,V ugm-3,3,V ugm-3,15,V ugm-3,2,V ugm-3,1,V ugm-3,1,V ugm-3,12,V ugm-3,25,V ugm-3,5,V ugm-3,2,V ugm-3,2,V ugm-3,No data,V ugm-3
+26-11-2024,65,V ugm-3,17,V ugm-3,17,V ugm-3,36,V ugm-3,20,V ugm-3,40,V ugm-3,48,V ugm-3,7,V ugm-3,23,V ugm-3,7,V ugm-3,44,V ugm-3,72,V ugm-3,20,V ugm-3,50,V ugm-3,17,V ugm-3,No data,V ugm-3
+27-11-2024,26,V ugm-3,9,V ugm-3,12,V ugm-3,19,V ugm-3,13,V ugm-3,9,V ugm-3,20,V ugm-3,16,V ugm-3,17,V ugm-3,9,V ugm-3,34,V ugm-3,47,V ugm-3,35,V ugm-3,14,V ugm-3,3,V ugm-3,No data,V ugm-3
+28-11-2024,83,V ugm-3,41,V ugm-3,45,V ugm-3,67,V ugm-3,25,V ugm-3,48,V ugm-3,84,V ugm-3,30,V ugm-3,55,V ugm-3,12,V ugm-3,99,V ugm-3,87,V ugm-3,22,V ugm-3,39,V ugm-3,44,V ugm-3,No data,V ugm-3
+29-11-2024,32,V ugm-3,2,V ugm-3,3,V ugm-3,6,V ugm-3,4,V ugm-3,3,V ugm-3,16,V ugm-3,2,V ugm-3,4,V ugm-3,5,V ugm-3,28,V ugm-3,62,V ugm-3,5,V ugm-3,4,V ugm-3,3,V ugm-3,4,V ugm-3
+30-11-2024,20,V ugm-3,1,V ugm-3,1,V ugm-3,1,V ugm-3,1,V ugm-3,4,V ugm-3,13,V ugm-3,1,V ugm-3,2,V ugm-3,0,V ugm-3,11,V ugm-3,30,V ugm-3,8,V ugm-3,2,V ugm-3,1,V ugm-3,2,V ugm-3
+01-12-2024,13,V ugm-3,1,V ugm-3,1,V ugm-3,1,V ugm-3,1,V ugm-3,2,V ugm-3,10,V ugm-3,1,V ugm-3,1,V ugm-3,0,V ugm-3,7,V ugm-3,24,V ugm-3,3,V ugm-3,2,V ugm-3,1,V ugm-3,1,V ugm-3
+02-12-2024,16,V ugm-3,1,V ugm-3,2,V ugm-3,1,V ugm-3,5,V ugm-3,3,V ugm-3,12,V ugm-3,2,V ugm-3,2,V ugm-3,1,V ugm-3,14,V ugm-3,23,V ugm-3,11,V ugm-3,1,V ugm-3,1,V ugm-3,3,V ugm-3
+03-12-2024,76,V ugm-3,19,V ugm-3,18,V ugm-3,28,V ugm-3,22,V ugm-3,37,V ugm-3,48,V ugm-3,21,V ugm-3,28,V ugm-3,8,V ugm-3,67,V ugm-3,79,V ugm-3,15,V ugm-3,21,V ugm-3,21,V ugm-3,23,V ugm-3
+04-12-2024,40,V ugm-3,2,V ugm-3,3,V ugm-3,11,V ugm-3,10,V ugm-3,8,V ugm-3,26,V ugm-3,11,V ugm-3,13,V ugm-3,5,V ugm-3,26,V ugm-3,63,V ugm-3,10,V ugm-3,11,V ugm-3,4,V ugm-3,6,V ugm-3
+05-12-2024,14,V ugm-3,1,V ugm-3,1,V ugm-3,1,V ugm-3,2,V ugm-3,3,V ugm-3,12,V ugm-3,1,V ugm-3,1,V ugm-3,0,V ugm-3,13,V ugm-3,26,V ugm-3,9,V ugm-3,2,V ugm-3,1,V ugm-3,3,V ugm-3
+06-12-2024,23,V ugm-3,1,V ugm-3,1,V ugm-3,2,V ugm-3,2,V ugm-3,5,V ugm-3,17,V ugm-3,2,V ugm-3,2,V ugm-3,1,V ugm-3,20,V ugm-3,39,V ugm-3,7,V ugm-3,2,V ugm-3,2,V ugm-3,4,V ugm-3
+07-12-2024,5,V ugm-3,1,V ugm-3,1,V ugm-3,1,V ugm-3,1,V ugm-3,1,V ugm-3,5,V ugm-3,1,V ugm-3,1,V ugm-3,1,V ugm-3,3,V ugm-3,4,V ugm-3,8,V ugm-3,1,V ugm-3,0,V ugm-3,1,V ugm-3
+08-12-2024,3,V ugm-3,2,V ugm-3,1,V ugm-3,1,V ugm-3,2,V ugm-3,1,V ugm-3,1,V ugm-3,1,V ugm-3,1,V ugm-3,1,V ugm-3,3,V ugm-3,9,V ugm-3,6,V ugm-3,1,V ugm-3,1,V ugm-3,1,V ugm-3
+09-12-2024,3,V ugm-3,1,V ugm-3,1,V ugm-3,1,V ugm-3,5,V ugm-3,1,V ugm-3,2,V ugm-3,1,V ugm-3,2,V ugm-3,1,V ugm-3,4,V ugm-3,31,V ugm-3,11,V ugm-3,1,V ugm-3,1,V ugm-3,1,V ugm-3
+10-12-2024,1,V ugm-3,1,V ugm-3,1,V ugm-3,1,V ugm-3,8,V ugm-3,1,V ugm-3,2,V ugm-3,1,V ugm-3,3,V ugm-3,1,V ugm-3,3,V ugm-3,32,V ugm-3,6,V ugm-3,1,V ugm-3,1,V ugm-3,1,V ugm-3
+11-12-2024,2,V ugm-3,2,V ugm-3,1,V ugm-3,1,V ugm-3,13,V ugm-3,1,V ugm-3,2,V ugm-3,1,V ugm-3,4,V ugm-3,1,V ugm-3,3,V ugm-3,23,V ugm-3,4,V ugm-3,1,V ugm-3,1,V ugm-3,2,V ugm-3
+12-12-2024,6,V ugm-3,4,V ugm-3,3,V ugm-3,3,V ugm-3,19,V ugm-3,2,V ugm-3,6,V ugm-3,2,V ugm-3,6,V ugm-3,1,V ugm-3,9,V ugm-3,25,V ugm-3,13,V ugm-3,3,V ugm-3,2,V ugm-3,4,V ugm-3
+13-12-2024,13,V ugm-3,3,V ugm-3,4,V ugm-3,4,V ugm-3,15,V ugm-3,4,V ugm-3,11,V ugm-3,3,V ugm-3,5,V ugm-3,1,V ugm-3,18,V ugm-3,42,V ugm-3,12,V ugm-3,3,V ugm-3,1,V ugm-3,5,V ugm-3
+14-12-2024,19,V ugm-3,1,V ugm-3,1,V ugm-3,1,V ugm-3,3,V ugm-3,4,V ugm-3,22,V ugm-3,1,V ugm-3,2,V ugm-3,1,V ugm-3,13,V ugm-3,22,V ugm-3,7,V ugm-3,2,V ugm-3,1,V ugm-3,2,V ugm-3
+15-12-2024,8,V ugm-3,1,V ugm-3,1,V ugm-3,1,V ugm-3,1,V ugm-3,3,V ugm-3,11,V ugm-3,1,V ugm-3,1,V ugm-3,0,V ugm-3,5,V ugm-3,12,V ugm-3,3,V ugm-3,1,V ugm-3,1,V ugm-3,2,V ugm-3
+16-12-2024,18,V ugm-3,1,V ugm-3,1,V ugm-3,1,V ugm-3,2,V ugm-3,4,V ugm-3,16,V ugm-3,2,V ugm-3,1,V ugm-3,0,V ugm-3,13,V ugm-3,25,V ugm-3,5,V ugm-3,2,V ugm-3,1,V ugm-3,3,V ugm-3
+17-12-2024,23,V ugm-3,No data,V ugm-3,1,V ugm-3,1,V ugm-3,1,V ugm-3,3,V ugm-3,15,V ugm-3,2,V ugm-3,3,V ugm-3,0,V ugm-3,16,V ugm-3,38,V ugm-3,5,V ugm-3,4,V ugm-3,1,V ugm-3,2,V ugm-3
+18-12-2024,14,V ugm-3,No data,V ugm-3,1,V ugm-3,1,V ugm-3,2,V ugm-3,3,V ugm-3,12,V ugm-3,1,V ugm-3,1,V ugm-3,0,V ugm-3,12,V ugm-3,28,V ugm-3,6,V ugm-3,3,V ugm-3,3,V ugm-3,2,V ugm-3
+19-12-2024,15,V ugm-3,No data,V ugm-3,1,V ugm-3,1,V ugm-3,4,V ugm-3,3,V ugm-3,15,V ugm-3,2,V ugm-3,2,V ugm-3,1,V ugm-3,12,V ugm-3,19,V ugm-3,8,V ugm-3,1,V ugm-3,1,V ugm-3,2,V ugm-3
+20-12-2024,29,V ugm-3,No data,V ugm-3,2,V ugm-3,2,V ugm-3,2,V ugm-3,6,V ugm-3,22,V ugm-3,2,V ugm-3,2,V ugm-3,1,V ugm-3,16,V ugm-3,32,V ugm-3,9,V ugm-3,5,V ugm-3,1,V ugm-3,4,V ugm-3
+21-12-2024,9,V ugm-3,No data,V ugm-3,No data,V ugm-3,1,V ugm-3,1,V ugm-3,2,V ugm-3,12,V ugm-3,1,V ugm-3,1,V ugm-3,0,V ugm-3,6,V ugm-3,11,V ugm-3,4,V ugm-3,2,V ugm-3,1,V ugm-3,No data,V ugm-3
+22-12-2024,7,V ugm-3,No data,V ugm-3,No data,V ugm-3,1,V ugm-3,2,V ugm-3,1,V ugm-3,8,V ugm-3,1,V ugm-3,1,V ugm-3,0,V ugm-3,4,V ugm-3,6,V ugm-3,3,V ugm-3,1,V ugm-3,0,V ugm-3,1,V ugm-3
+23-12-2024,21,V ugm-3,No data,V ugm-3,No data,V ugm-3,2,V ugm-3,3,V ugm-3,4,V ugm-3,20,V ugm-3,2,V ugm-3,2,V ugm-3,1,V ugm-3,16,V ugm-3,31,V ugm-3,11,V ugm-3,2,V ugm-3,2,V ugm-3,4,V ugm-3
+24-12-2024,43,V ugm-3,No data,V ugm-3,No data,V ugm-3,5,V ugm-3,4,V ugm-3,4,V ugm-3,22,V ugm-3,2,V ugm-3,2,V ugm-3,1,V ugm-3,19,V ugm-3,26,V ugm-3,8,V ugm-3,9,V ugm-3,5,V ugm-3,4,V ugm-3
+25-12-2024,16,V ugm-3,1,V ugm-3,No data,V ugm-3,1,V ugm-3,2,V ugm-3,2,V ugm-3,11,V ugm-3,1,V ugm-3,1,V ugm-3,0,V ugm-3,7,V ugm-3,20,V ugm-3,2,V ugm-3,14,V ugm-3,1,V ugm-3,1,V ugm-3
+26-12-2024,22,V ugm-3,1,V ugm-3,No data,V ugm-3,2,V ugm-3,5,V ugm-3,2,V ugm-3,14,V ugm-3,1,V ugm-3,1,V ugm-3,1,V ugm-3,17,V ugm-3,40,V ugm-3,7,V ugm-3,2,V ugm-3,3,V ugm-3,3,V ugm-3
+27-12-2024,40,V ugm-3,1,V ugm-3,No data,V ugm-3,5,V ugm-3,10,V ugm-3,4,V ugm-3,22,V ugm-3,3,V ugm-3,2,V ugm-3,1,V ugm-3,26,V ugm-3,54,V ugm-3,24,V ugm-3,4,V ugm-3,6,V ugm-3,10,V ugm-3
+28-12-2024,28,V ugm-3,2,V ugm-3,No data,V ugm-3,3,V ugm-3,4,V ugm-3,5,V ugm-3,23,V ugm-3,2,V ugm-3,2,V ugm-3,1,V ugm-3,18,V ugm-3,40,V ugm-3,19,V ugm-3,3,V ugm-3,3,V ugm-3,7,V ugm-3
+29-12-2024,12,V ugm-3,1,V ugm-3,No data,V ugm-3,1,V ugm-3,2,V ugm-3,3,V ugm-3,15,V ugm-3,1,V ugm-3,2,V ugm-3,0,V ugm-3,7,V ugm-3,16,V ugm-3,3,V ugm-3,3,V ugm-3,1,V ugm-3,2,V ugm-3
+30-12-2024,12,V ugm-3,1,V ugm-3,No data,V ugm-3,1,V ugm-3,1,V ugm-3,3,V ugm-3,10,V ugm-3,12,V ugm-3,1,V ugm-3,0,V ugm-3,6,V ugm-3,14,V ugm-3,4,V ugm-3,1,V ugm-3,1,V ugm-3,2,V ugm-3
+31-12-2024,8,V ugm-3,1,V ugm-3,No data,V ugm-3,1,V ugm-3,1,V ugm-3,2,V ugm-3,5,V ugm-3,1,V ugm-3,1,V ugm-3,0,V ugm-3,4,V ugm-3,8,V ugm-3,2,V ugm-3,1,V ugm-3,0,V ugm-3,1,V ugm-3
+01-01-2025,8,V ugm-3,1,N ugm-3,1,V ugm-3,0,V ugm-3,1,V ugm-3,2,V ugm-3,9,V ugm-3,1,V ugm-3,1,V ugm-3,0,V ugm-3,6,V ugm-3,11,V ugm-3,1,V ugm-3,1,V ugm-3,0,V ugm-3,2,V ugm-3
+02-01-2025,28,V ugm-3,4,N ugm-3,5,V ugm-3,13,V ugm-3,13,V ugm-3,10,V ugm-3,18,V ugm-3,6,V ugm-3,5,V ugm-3,7,V ugm-3,27,V ugm-3,62,V ugm-3,32,V ugm-3,5,V ugm-3,4,V ugm-3,8,V ugm-3
+03-01-2025,26,V ugm-3,1,N ugm-3,1,V ugm-3,6,V ugm-3,8,V ugm-3,15,V ugm-3,31,V ugm-3,6,V ugm-3,4,V ugm-3,1,V ugm-3,24,V ugm-3,36,V ugm-3,7,V ugm-3,4,V ugm-3,1,V ugm-3,6,V ugm-3
+04-01-2025,23,V ugm-3,2,N ugm-3,3,V ugm-3,5,V ugm-3,15,V ugm-3,5,V ugm-3,20,V ugm-3,3,V ugm-3,6,V ugm-3,2,V ugm-3,17,V ugm-3,39,V ugm-3,6,V ugm-3,4,V ugm-3,4,V ugm-3,3,V ugm-3
+05-01-2025,20,V ugm-3,4,N ugm-3,6,V ugm-3,2,V ugm-3,8,V ugm-3,10,V ugm-3,14,V ugm-3,4,V ugm-3,5,V ugm-3,1,V ugm-3,11,V ugm-3,22,V ugm-3,2,V ugm-3,2,V ugm-3,2,V ugm-3,5,V ugm-3
+06-01-2025,13,V ugm-3,1,N ugm-3,2,V ugm-3,1,V ugm-3,3,V ugm-3,3,V ugm-3,16,V ugm-3,2,V ugm-3,2,V ugm-3,1,V ugm-3,12,V ugm-3,17,V ugm-3,5,V ugm-3,1,V ugm-3,1,V ugm-3,3,V ugm-3
+07-01-2025,28,V ugm-3,1,N ugm-3,2,V ugm-3,2,V ugm-3,4,V ugm-3,5,V ugm-3,26,V ugm-3,4,V ugm-3,3,V ugm-3,1,V ugm-3,20,V ugm-3,31,V ugm-3,6,V ugm-3,3,V ugm-3,4,V ugm-3,7,V ugm-3
+08-01-2025,84,V ugm-3,43,N ugm-3,48,V ugm-3,29,V ugm-3,36,V ugm-3,36,V ugm-3,43,V ugm-3,15,V ugm-3,33,V ugm-3,10,V ugm-3,82,V ugm-3,75,V ugm-3,16,V ugm-3,28,V ugm-3,36,V ugm-3,57,V ugm-3
+09-01-2025,37,V ugm-3,8,N ugm-3,9,V ugm-3,28,V ugm-3,14,V ugm-3,16,V ugm-3,45,V ugm-3,15,V ugm-3,13,V ugm-3,10,V ugm-3,51,V ugm-3,73,V ugm-3,32,V ugm-3,7,V ugm-3,9,V ugm-3,14,V ugm-3
+10-01-2025,137,V ugm-3,75,N ugm-3,96,V ugm-3,67,V ugm-3,39,V ugm-3,50,V ugm-3,84,V ugm-3,68,V ugm-3,96,V ugm-3,20,V ugm-3,186,V ugm-3,127,V ugm-3,76,V ugm-3,144,V ugm-3,66,V ugm-3,81,V ugm-3
+11-01-2025,202,V ugm-3,100,N ugm-3,105,V ugm-3,62,V ugm-3,28,V ugm-3,72,V ugm-3,85,V ugm-3,47,V ugm-3,55,V ugm-3,14,V ugm-3,132,V ugm-3,88,V ugm-3,47,V ugm-3,50,V ugm-3,89,V ugm-3,110,V ugm-3
+12-01-2025,46,V ugm-3,3,N ugm-3,2,V ugm-3,45,V ugm-3,6,V ugm-3,18,V ugm-3,33,V ugm-3,8,V ugm-3,11,V ugm-3,5,V ugm-3,17,V ugm-3,69,V ugm-3,9,V ugm-3,26,V ugm-3,7,V ugm-3,3,V ugm-3
+13-01-2025,20,V ugm-3,1,N ugm-3,1,V ugm-3,2,V ugm-3,1,V ugm-3,4,V ugm-3,14,V ugm-3,3,V ugm-3,2,V ugm-3,1,V ugm-3,12,V ugm-3,39,V ugm-3,6,V ugm-3,4,V ugm-3,2,V ugm-3,3,V ugm-3
+14-01-2025,48,V ugm-3,1,N ugm-3,3,V ugm-3,12,V ugm-3,8,V ugm-3,7,V ugm-3,27,V ugm-3,4,V ugm-3,3,V ugm-3,0,V ugm-3,23,V ugm-3,40,V ugm-3,20,V ugm-3,12,V ugm-3,6,V ugm-3,5,V ugm-3
+15-01-2025,58,V ugm-3,2,N ugm-3,14,V ugm-3,35,V ugm-3,22,V ugm-3,6,V ugm-3,27,V ugm-3,3,V ugm-3,3,V ugm-3,7,V ugm-3,40,V ugm-3,94,V ugm-3,30,V ugm-3,49,V ugm-3,16,V ugm-3,14,V ugm-3
+16-01-2025,58,V ugm-3,5,N ugm-3,13,V ugm-3,13,V ugm-3,31,V ugm-3,7,V ugm-3,21,V ugm-3,6,V ugm-3,6,V ugm-3,5,V ugm-3,59,V ugm-3,99,V ugm-3,28,V ugm-3,11,V ugm-3,44,V ugm-3,22,V ugm-3
+17-01-2025,28,V ugm-3,1,N ugm-3,1,V ugm-3,2,V ugm-3,2,V ugm-3,4,V ugm-3,20,V ugm-3,3,V ugm-3,2,V ugm-3,8,V ugm-3,20,V ugm-3,55,V ugm-3,9,V ugm-3,5,V ugm-3,2,V ugm-3,3,V ugm-3
+18-01-2025,21,V ugm-3,1,N ugm-3,1,V ugm-3,2,V ugm-3,3,V ugm-3,3,V ugm-3,16,V ugm-3,2,V ugm-3,3,V ugm-3,0,V ugm-3,17,V ugm-3,42,V ugm-3,5,V ugm-3,3,V ugm-3,1,V ugm-3,3,V ugm-3
+19-01-2025,30,V ugm-3,1,N ugm-3,2,V ugm-3,2,V ugm-3,2,V ugm-3,4,V ugm-3,18,V ugm-3,2,V ugm-3,2,V ugm-3,0,V ugm-3,19,V ugm-3,37,V ugm-3,3,V ugm-3,3,V ugm-3,2,V ugm-3,4,V ugm-3
+20-01-2025,53,V ugm-3,9,N ugm-3,12,V ugm-3,20,V ugm-3,17,V ugm-3,11,V ugm-3,37,V ugm-3,14,V ugm-3,11,V ugm-3,7,V ugm-3,42,V ugm-3,84,V ugm-3,19,V ugm-3,14,V ugm-3,14,V ugm-3,20,V ugm-3
+21-01-2025,48,V ugm-3,2,N ugm-3,2,V ugm-3,5,V ugm-3,3,V ugm-3,13,V ugm-3,29,V ugm-3,5,V ugm-3,8,V ugm-3,3,V ugm-3,27,V ugm-3,61,V ugm-3,8,V ugm-3,7,V ugm-3,3,V ugm-3,5,V ugm-3
+22-01-2025,81,V ugm-3,24,N ugm-3,29,V ugm-3,21,V ugm-3,23,V ugm-3,41,V ugm-3,53,V ugm-3,26,V ugm-3,27,V ugm-3,5,V ugm-3,55,V ugm-3,48,V ugm-3,20,V ugm-3,10,V ugm-3,12,V ugm-3,22,V ugm-3
+23-01-2025,27,V ugm-3,1,N ugm-3,1,V ugm-3,5,V ugm-3,2,V ugm-3,4,V ugm-3,16,V ugm-3,3,V ugm-3,1,V ugm-3,0,V ugm-3,15,V ugm-3,32,V ugm-3,5,V ugm-3,3,V ugm-3,4,V ugm-3,3,V ugm-3
+24-01-2025,11,V ugm-3,1,N ugm-3,1,V ugm-3,1,V ugm-3,1,V ugm-3,3,V ugm-3,11,V ugm-3,1,V ugm-3,1,V ugm-3,0,V ugm-3,8,V ugm-3,14,V ugm-3,3,V ugm-3,2,V ugm-3,1,V ugm-3,2,V ugm-3
+25-01-2025,27,V ugm-3,1,N ugm-3,2,V ugm-3,2,V ugm-3,3,V ugm-3,8,V ugm-3,21,V ugm-3,2,V ugm-3,2,V ugm-3,0,V ugm-3,16,V ugm-3,32,V ugm-3,6,V ugm-3,9,V ugm-3,2,V ugm-3,4,V ugm-3
+26-01-2025,10,V ugm-3,1,N ugm-3,1,V ugm-3,1,V ugm-3,1,V ugm-3,1,V ugm-3,7,V ugm-3,1,V ugm-3,1,V ugm-3,0,V ugm-3,7,V ugm-3,22,V ugm-3,1,V ugm-3,1,V ugm-3,0,V ugm-3,1,V ugm-3
+27-01-2025,16,V ugm-3,1,N ugm-3,1,V ugm-3,1,V ugm-3,1,V ugm-3,2,V ugm-3,8,V ugm-3,1,V ugm-3,1,V ugm-3,1,V ugm-3,12,V ugm-3,26,V ugm-3,3,V ugm-3,2,V ugm-3,1,V ugm-3,2,V ugm-3
+28-01-2025,20,V ugm-3,1,N ugm-3,2,V ugm-3,2,V ugm-3,7,V ugm-3,3,V ugm-3,14,V ugm-3,2,V ugm-3,2,V ugm-3,1,V ugm-3,15,V ugm-3,24,V ugm-3,12,V ugm-3,2,V ugm-3,2,V ugm-3,2,V ugm-3
+29-01-2025,31,V ugm-3,3,N ugm-3,3,V ugm-3,2,V ugm-3,10,V ugm-3,6,V ugm-3,14,V ugm-3,4,V ugm-3,4,V ugm-3,2,V ugm-3,11,V ugm-3,24,V ugm-3,14,V ugm-3,3,V ugm-3,6,V ugm-3,8,V ugm-3
+30-01-2025,32,V ugm-3,2,N ugm-3,4,V ugm-3,3,V ugm-3,5,V ugm-3,7,V ugm-3,23,V ugm-3,3,V ugm-3,4,V ugm-3,2,V ugm-3,22,V ugm-3,47,V ugm-3,10,V ugm-3,4,V ugm-3,2,V ugm-3,4,V ugm-3
+31-01-2025,16,V ugm-3,2,N ugm-3,2,V ugm-3,3,V ugm-3,9,V ugm-3,4,V ugm-3,11,V ugm-3,2,V ugm-3,5,V ugm-3,1,V ugm-3,13,V ugm-3,27,V ugm-3,16,V ugm-3,4,V ugm-3,1,V ugm-3,3,V ugm-3
+01-02-2025,22,V ugm-3,1,N ugm-3,2,V ugm-3,2,V ugm-3,2,V ugm-3,2,V ugm-3,15,V ugm-3,1,V ugm-3,3,V ugm-3,1,V ugm-3,18,V ugm-3,40,V ugm-3,4,V ugm-3,3,V ugm-3,1,V ugm-3,2,V ugm-3
+02-02-2025,19,V ugm-3,1,N ugm-3,1,V ugm-3,2,V ugm-3,1,V ugm-3,5,V ugm-3,21,V ugm-3,2,V ugm-3,3,V ugm-3,0,V ugm-3,9,V ugm-3,26,V ugm-3,3,V ugm-3,2,V ugm-3,1,V ugm-3,2,V ugm-3
+03-02-2025,32,V ugm-3,1,N ugm-3,2,V ugm-3,3,V ugm-3,2,V ugm-3,7,V ugm-3,18,V ugm-3,3,V ugm-3,3,V ugm-3,1,V ugm-3,19,V ugm-3,43,V ugm-3,6,V ugm-3,4,V ugm-3,2,V ugm-3,4,V ugm-3
+04-02-2025,14,V ugm-3,1,N ugm-3,1,V ugm-3,1,V ugm-3,1,V ugm-3,3,V ugm-3,12,V ugm-3,2,V ugm-3,1,V ugm-3,0,V ugm-3,12,V ugm-3,26,V ugm-3,4,V ugm-3,2,V ugm-3,1,V ugm-3,2,V ugm-3
+05-02-2025,91,V ugm-3,31,N ugm-3,26,V ugm-3,27,V ugm-3,16,V ugm-3,28,V ugm-3,78,V ugm-3,20,V ugm-3,31,V ugm-3,13,V ugm-3,75,V ugm-3,51,V ugm-3,19,V ugm-3,76,V ugm-3,20,V ugm-3,43,V ugm-3
+06-02-2025,72,V ugm-3,45,N ugm-3,23,V ugm-3,31,V ugm-3,14,V ugm-3,17,V ugm-3,39,V ugm-3,12,V ugm-3,34,V ugm-3,20,V ugm-3,85,V ugm-3,56,V ugm-3,15,V ugm-3,40,V ugm-3,12,V ugm-3,21,V ugm-3
+07-02-2025,1,V ugm-3,1,N ugm-3,1,V ugm-3,1,V ugm-3,7,V ugm-3,1,V ugm-3,2,V ugm-3,1,V ugm-3,3,V ugm-3,1,V ugm-3,2,V ugm-3,20,V ugm-3,2,V ugm-3,1,V ugm-3,1,V ugm-3,1,V ugm-3
+08-02-2025,3,V ugm-3,2,N ugm-3,1,V ugm-3,2,V ugm-3,8,V ugm-3,2,V ugm-3,5,V ugm-3,1,V ugm-3,6,V ugm-3,1,V ugm-3,3,V ugm-3,29,V ugm-3,6,V ugm-3,1,V ugm-3,1,V ugm-3,2,V ugm-3
+09-02-2025,2,V ugm-3,1,N ugm-3,1,V ugm-3,1,V ugm-3,4,V ugm-3,1,V ugm-3,3,V ugm-3,1,V ugm-3,No data,V ugm-3,1,V ugm-3,2,V ugm-3,16,V ugm-3,2,V ugm-3,1,V ugm-3,1,V ugm-3,1,V ugm-3
+10-02-2025,1,V ugm-3,2,N ugm-3,1,V ugm-3,1,V ugm-3,7,V ugm-3,1,V ugm-3,3,V ugm-3,1,V ugm-3,No data,V ugm-3,1,V ugm-3,3,V ugm-3,29,V ugm-3,4,V ugm-3,1,V ugm-3,1,V ugm-3,1,V ugm-3
+11-02-2025,4,V ugm-3,3,N ugm-3,2,V ugm-3,2,V ugm-3,13,V ugm-3,2,V ugm-3,5,V ugm-3,2,V ugm-3,No data,V ugm-3,1,V ugm-3,6,V ugm-3,40,V ugm-3,9,V ugm-3,2,V ugm-3,1,V ugm-3,2,V ugm-3
+12-02-2025,7,V ugm-3,4,N ugm-3,3,V ugm-3,4,V ugm-3,15,V ugm-3,3,V ugm-3,7,V ugm-3,3,V ugm-3,9,V ugm-3,2,V ugm-3,8,V ugm-3,42,V ugm-3,15,V ugm-3,3,V ugm-3,2,V ugm-3,4,V ugm-3
+13-02-2025,2,V ugm-3,3,N ugm-3,1,V ugm-3,1,V ugm-3,12,V ugm-3,1,V ugm-3,5,V ugm-3,1,V ugm-3,4,V ugm-3,1,V ugm-3,7,V ugm-3,33,V ugm-3,2,V ugm-3,1,V ugm-3,1,V ugm-3,2,V ugm-3
+14-02-2025,8,V ugm-3,2,N ugm-3,2,V ugm-3,2,V ugm-3,7,V ugm-3,1,V ugm-3,16,V ugm-3,1,V ugm-3,5,V ugm-3,1,V ugm-3,25,V ugm-3,41,V ugm-3,3,V ugm-3,2,V ugm-3,1,V ugm-3,3,V ugm-3
+15-02-2025,12,V ugm-3,2,N ugm-3,4,V ugm-3,2,V ugm-3,6,V ugm-3,1,V ugm-3,17,V ugm-3,1,V ugm-3,5,V ugm-3,1,V ugm-3,21,V ugm-3,38,V ugm-3,5,V ugm-3,3,V ugm-3,1,V ugm-3,3,V ugm-3
+16-02-2025,4,V ugm-3,1,N ugm-3,2,V ugm-3,1,V ugm-3,6,V ugm-3,1,V ugm-3,7,V ugm-3,1,V ugm-3,3,V ugm-3,1,V ugm-3,10,V ugm-3,19,V ugm-3,2,V ugm-3,2,V ugm-3,1,V ugm-3,1,V ugm-3
+17-02-2025,11,V ugm-3,3,N ugm-3,5,V ugm-3,2,V ugm-3,10,V ugm-3,2,V ugm-3,12,V ugm-3,2,V ugm-3,5,V ugm-3,1,V ugm-3,21,V ugm-3,36,V ugm-3,3,V ugm-3,3,V ugm-3,2,V ugm-3,5,V ugm-3
+18-02-2025,11,V ugm-3,4,N ugm-3,6,V ugm-3,2,V ugm-3,13,V ugm-3,2,V ugm-3,12,V ugm-3,No data,V ugm-3,6,V ugm-3,2,V ugm-3,20,V ugm-3,23,V ugm-3,3,V ugm-3,4,V ugm-3,2,V ugm-3,5,V ugm-3
+19-02-2025,23,V ugm-3,2,N ugm-3,9,V ugm-3,5,V ugm-3,10,V ugm-3,3,V ugm-3,20,V ugm-3,No data,V ugm-3,8,V ugm-3,2,V ugm-3,28,V ugm-3,40,V ugm-3,5,V ugm-3,4,V ugm-3,4,V ugm-3,6,V ugm-3
+20-02-2025,15,V ugm-3,1,N ugm-3,1,V ugm-3,1,V ugm-3,1,V ugm-3,2,V ugm-3,9,V ugm-3,1,V ugm-3,1,V ugm-3,0,V ugm-3,10,V ugm-3,20,V ugm-3,4,V ugm-3,2,V ugm-3,1,V ugm-3,2,V ugm-3
+21-02-2025,14,V ugm-3,0,N ugm-3,1,V ugm-3,1,V ugm-3,0,V ugm-3,2,V ugm-3,7,V ugm-3,1,V ugm-3,1,V ugm-3,0,V ugm-3,9,V ugm-3,18,V ugm-3,3,V ugm-3,2,V ugm-3,0,V ugm-3,2,V ugm-3
+22-02-2025,29,V ugm-3,1,N ugm-3,1,V ugm-3,4,V ugm-3,2,V ugm-3,5,V ugm-3,18,V ugm-3,2,V ugm-3,2,V ugm-3,1,V ugm-3,12,V ugm-3,22,V ugm-3,5,V ugm-3,11,V ugm-3,1,V ugm-3,3,V ugm-3
+23-02-2025,9,V ugm-3,0,N ugm-3,1,V ugm-3,0,V ugm-3,0,V ugm-3,1,V ugm-3,6,V ugm-3,1,V ugm-3,1,V ugm-3,0,V ugm-3,5,V ugm-3,11,V ugm-3,1,V ugm-3,2,V ugm-3,0,V ugm-3,1,V ugm-3
+24-02-2025,17,V ugm-3,1,N ugm-3,1,V ugm-3,1,V ugm-3,1,V ugm-3,3,V ugm-3,12,V ugm-3,1,V ugm-3,1,V ugm-3,0,V ugm-3,11,V ugm-3,26,V ugm-3,5,V ugm-3,2,V ugm-3,1,V ugm-3,2,V ugm-3
+25-02-2025,24,V ugm-3,1,N ugm-3,1,V ugm-3,2,V ugm-3,3,V ugm-3,5,V ugm-3,19,V ugm-3,3,V ugm-3,2,V ugm-3,0,V ugm-3,16,V ugm-3,30,V ugm-3,5,V ugm-3,4,V ugm-3,2,V ugm-3,5,V ugm-3
+26-02-2025,20,V ugm-3,1,N ugm-3,1,V ugm-3,1,V ugm-3,2,V ugm-3,3,V ugm-3,16,V ugm-3,2,V ugm-3,2,V ugm-3,0,V ugm-3,14,V ugm-3,25,V ugm-3,5,V ugm-3,2,V ugm-3,2,V ugm-3,4,V ugm-3
+27-02-2025,17,V ugm-3,2,N ugm-3,1,V ugm-3,2,V ugm-3,6,V ugm-3,3,V ugm-3,9,V ugm-3,2,V ugm-3,2,V ugm-3,1,V ugm-3,10,V ugm-3,15,V ugm-3,12,V ugm-3,1,V ugm-3,1,V ugm-3,2,V ugm-3
+28-02-2025,61,V ugm-3,15,N ugm-3,4,V ugm-3,7,V ugm-3,26,V ugm-3,17,V ugm-3,48,V ugm-3,5,V ugm-3,16,V ugm-3,5,V ugm-3,46,V ugm-3,59,V ugm-3,20,V ugm-3,54,V ugm-3,8,V ugm-3,7,V ugm-3
+01-03-2025,99,V ugm-3,24,N ugm-3,27,V ugm-3,24,V ugm-3,21,V ugm-3,20,V ugm-3,92,V ugm-3,19,V ugm-3,32,V ugm-3,2,V ugm-3,60,V ugm-3,74,V ugm-3,36,V ugm-3,60,V ugm-3,23,V ugm-3,30,V ugm-3
+02-03-2025,63,V ugm-3,15,N ugm-3,11,V ugm-3,13,V ugm-3,7,V ugm-3,14,V ugm-3,78,V ugm-3,4,V ugm-3,24,V ugm-3,1,V ugm-3,41,V ugm-3,45,V ugm-3,16,V ugm-3,18,V ugm-3,21,V ugm-3,30,V ugm-3
+03-03-2025,49,V ugm-3,4,N ugm-3,14,V ugm-3,24,V ugm-3,11,V ugm-3,19,V ugm-3,35,V ugm-3,10,V ugm-3,12,V ugm-3,3,V ugm-3,37,V ugm-3,32,V ugm-3,11,V ugm-3,13,V ugm-3,10,V ugm-3,12,V ugm-3
+04-03-2025,43,V ugm-3,2,N ugm-3,3,V ugm-3,24,V ugm-3,10,V ugm-3,12,V ugm-3,24,V ugm-3,7,V ugm-3,8,V ugm-3,4,V ugm-3,23,V ugm-3,38,V ugm-3,10,V ugm-3,12,V ugm-3,7,V ugm-3,8,V ugm-3
+05-03-2025,27,V ugm-3,1,N ugm-3,1,V ugm-3,3,V ugm-3,2,V ugm-3,5,V ugm-3,17,V ugm-3,3,V ugm-3,2,V ugm-3,1,V ugm-3,15,V ugm-3,33,V ugm-3,5,V ugm-3,7,V ugm-3,2,V ugm-3,3,V ugm-3
+06-03-2025,38,V ugm-3,1,N ugm-3,2,V ugm-3,3,V ugm-3,5,V ugm-3,6,V ugm-3,17,V ugm-3,1,V ugm-3,4,V ugm-3,2,V ugm-3,20,V ugm-3,40,V ugm-3,4,V ugm-3,6,V ugm-3,4,V ugm-3,2,V ugm-3
+07-03-2025,18,V ugm-3,1,N ugm-3,2,V ugm-3,2,V ugm-3,3,V ugm-3,2,V ugm-3,No data,V ugm-3,1,V ugm-3,4,V ugm-3,1,V ugm-3,20,V ugm-3,50,V ugm-3,4,V ugm-3,3,V ugm-3,2,V ugm-3,3,V ugm-3
+08-03-2025,10,V ugm-3,3,N ugm-3,3,V ugm-3,2,V ugm-3,7,V ugm-3,4,V ugm-3,No data,V ugm-3,1,V ugm-3,3,V ugm-3,1,V ugm-3,12,V ugm-3,21,V ugm-3,2,V ugm-3,3,V ugm-3,1,V ugm-3,3,V ugm-3
+09-03-2025,3,V ugm-3,2,N ugm-3,1,V ugm-3,2,V ugm-3,4,V ugm-3,1,V ugm-3,No data,V ugm-3,1,V ugm-3,2,V ugm-3,1,V ugm-3,3,V ugm-3,18,V ugm-3,2,V ugm-3,2,V ugm-3,1,V ugm-3,2,V ugm-3
+10-03-2025,3,V ugm-3,2,N ugm-3,2,V ugm-3,2,V ugm-3,7,V ugm-3,2,V ugm-3,No data,V ugm-3,2,V ugm-3,4,V ugm-3,1,V ugm-3,4,V ugm-3,26,V ugm-3,5,V ugm-3,3,V ugm-3,1,V ugm-3,2,V ugm-3
+11-03-2025,5,V ugm-3,1,N ugm-3,1,V ugm-3,1,V ugm-3,6,V ugm-3,2,V ugm-3,No data,V ugm-3,1,V ugm-3,2,V ugm-3,1,V ugm-3,5,V ugm-3,16,V ugm-3,9,V ugm-3,1,V ugm-3,1,V ugm-3,2,V ugm-3
+12-03-2025,16,V ugm-3,3,N ugm-3,2,V ugm-3,1,V ugm-3,6,V ugm-3,3,V ugm-3,No data,V ugm-3,2,V ugm-3,3,V ugm-3,1,V ugm-3,10,V ugm-3,24,V ugm-3,11,V ugm-3,2,V ugm-3,1,V ugm-3,2,V ugm-3
+13-03-2025,14,V ugm-3,3,N ugm-3,2,V ugm-3,1,V ugm-3,5,V ugm-3,3,V ugm-3,3,V ugm-3,1,V ugm-3,2,V ugm-3,1,V ugm-3,10,V ugm-3,13,V ugm-3,11,V ugm-3,2,V ugm-3,1,V ugm-3,2,V ugm-3
+14-03-2025,10,V ugm-3,5,N ugm-3,3,V ugm-3,3,V ugm-3,10,V ugm-3,5,V ugm-3,7,V ugm-3,5,V ugm-3,8,V ugm-3,2,V ugm-3,12,V ugm-3,35,V ugm-3,11,V ugm-3,3,V ugm-3,2,V ugm-3,4,V ugm-3
+15-03-2025,3,V ugm-3,1,N ugm-3,1,V ugm-3,2,V ugm-3,5,V ugm-3,2,V ugm-3,3,V ugm-3,1,V ugm-3,3,V ugm-3,1,V ugm-3,3,V ugm-3,30,V ugm-3,7,V ugm-3,1,V ugm-3,1,V ugm-3,2,V ugm-3
+16-03-2025,3,V ugm-3,2,N ugm-3,2,V ugm-3,3,V ugm-3,5,V ugm-3,1,V ugm-3,2,V ugm-3,1,V ugm-3,2,V ugm-3,1,V ugm-3,12,V ugm-3,28,V ugm-3,5,V ugm-3,4,V ugm-3,1,V ugm-3,3,V ugm-3
+17-03-2025,3,V ugm-3,2,N ugm-3,1,V ugm-3,1,V ugm-3,9,V ugm-3,1,V ugm-3,3,V ugm-3,1,V ugm-3,2,V ugm-3,1,V ugm-3,6,V ugm-3,27,V ugm-3,2,V ugm-3,1,V ugm-3,1,V ugm-3,2,V ugm-3
+18-03-2025,7,V ugm-3,4,N ugm-3,1,V ugm-3,2,V ugm-3,9,V ugm-3,2,V ugm-3,7,V ugm-3,2,V ugm-3,3,V ugm-3,1,V ugm-3,14,V ugm-3,23,V ugm-3,2,V ugm-3,3,V ugm-3,2,V ugm-3,4,V ugm-3
+19-03-2025,56,V ugm-3,23,N ugm-3,39,V ugm-3,8,V ugm-3,13,V ugm-3,13,V ugm-3,25,V ugm-3,5,V ugm-3,9,V ugm-3,4,V ugm-3,50,V ugm-3,62,V ugm-3,7,V ugm-3,28,V ugm-3,7,V ugm-3,10,V ugm-3
+20-03-2025,91,V ugm-3,29,N ugm-3,53,V ugm-3,8,V ugm-3,14,V ugm-3,13,V ugm-3,32,V ugm-3,2,V ugm-3,8,V ugm-3,5,V ugm-3,64,V ugm-3,53,V ugm-3,5,V ugm-3,20,V ugm-3,9,V ugm-3,23,V ugm-3
+21-03-2025,8,V ugm-3,3,N ugm-3,2,V ugm-3,2,V ugm-3,9,V ugm-3,1,V ugm-3,10,V ugm-3,1,V ugm-3,3,V ugm-3,1,V ugm-3,18,V ugm-3,22,V ugm-3,2,V ugm-3,3,V ugm-3,2,V ugm-3,3,V ugm-3
+22-03-2025,7,V ugm-3,2,N ugm-3,2,V ugm-3,2,V ugm-3,8,V ugm-3,1,V ugm-3,8,V ugm-3,1,V ugm-3,3,V ugm-3,1,V ugm-3,9,V ugm-3,25,V ugm-3,3,V ugm-3,2,V ugm-3,1,V ugm-3,2,V ugm-3
+23-03-2025,3,V ugm-3,1,N ugm-3,1,V ugm-3,1,V ugm-3,4,V ugm-3,1,V ugm-3,3,V ugm-3,1,V ugm-3,2,V ugm-3,0,V ugm-3,2,V ugm-3,24,V ugm-3,4,V ugm-3,1,V ugm-3,0,V ugm-3,1,V ugm-3
+24-03-2025,16,V ugm-3,2,N ugm-3,4,V ugm-3,1,V ugm-3,5,V ugm-3,5,V ugm-3,8,V ugm-3,1,V ugm-3,2,V ugm-3,1,V ugm-3,18,V ugm-3,27,V ugm-3,6,V ugm-3,11,V ugm-3,1,V ugm-3,6,V ugm-3
+25-03-2025,21,V ugm-3,2,N ugm-3,1,V ugm-3,3,V ugm-3,5,V ugm-3,5,V ugm-3,14,V ugm-3,3,V ugm-3,3,V ugm-3,1,V ugm-3,14,V ugm-3,16,V ugm-3,9,V ugm-3,2,V ugm-3,1,V ugm-3,4,V ugm-3
+26-03-2025,26,V ugm-3,1,N ugm-3,2,V ugm-3,12,V ugm-3,4,V ugm-3,8,V ugm-3,24,V ugm-3,2,V ugm-3,3,V ugm-3,1,V ugm-3,18,V ugm-3,35,V ugm-3,7,V ugm-3,2,V ugm-3,1,V ugm-3,3,V ugm-3
+27-03-2025,18,V ugm-3,1,N ugm-3,2,V ugm-3,1,V ugm-3,1,V ugm-3,4,V ugm-3,16,V ugm-3,2,V ugm-3,1,V ugm-3,0,V ugm-3,13,V ugm-3,22,V ugm-3,5,V ugm-3,2,V ugm-3,1,V ugm-3,3,V ugm-3
+28-03-2025,13,V ugm-3,1,N ugm-3,0,V ugm-3,1,V ugm-3,3,V ugm-3,2,V ugm-3,12,V ugm-3,1,V ugm-3,1,V ugm-3,1,V ugm-3,11,V ugm-3,18,V ugm-3,4,V ugm-3,2,V ugm-3,1,V ugm-3,2,V ugm-3
+29-03-2025,12,V ugm-3,1,N ugm-3,0,V ugm-3,1,V ugm-3,2,V ugm-3,2,V ugm-3,11,V ugm-3,1,V ugm-3,No data,V ugm-3,0,V ugm-3,8,V ugm-3,18,V ugm-3,4,V ugm-3,2,V ugm-3,1,V ugm-3,2,V ugm-3
+30-03-2025,9,V ugm-3,1,N ugm-3,0,V ugm-3,1,V ugm-3,2,V ugm-3,1,V ugm-3,7,V ugm-3,1,V ugm-3,No data,V ugm-3,0,V ugm-3,4,V ugm-3,6,V ugm-3,3,V ugm-3,1,V ugm-3,0,V ugm-3,1,V ugm-3
+31-03-2025,30,V ugm-3,5,N ugm-3,8,V ugm-3,12,V ugm-3,11,V ugm-3,9,V ugm-3,19,V ugm-3,4,V ugm-3,6,V ugm-3,2,V ugm-3,28,V ugm-3,45,V ugm-3,12,V ugm-3,8,V ugm-3,5,V ugm-3,8,V ugm-3
+01-04-2025,7,N ugm-3,2,N ugm-3,0,N ugm-3,3,N ugm-3,7,N ugm-3,1,N ugm-3,6,N ugm-3,1,N ugm-3,3,N ugm-3,2,N ugm-3,11,N ugm-3,21,N ugm-3,1,N ugm-3,4,N ugm-3,3,N ugm-3,3,N ugm-3
+02-04-2025,6,N ugm-3,2,N ugm-3,0,N ugm-3,3,N ugm-3,7,N ugm-3,1,N ugm-3,3,N ugm-3,1,N ugm-3,3,N ugm-3,1,N ugm-3,6,N ugm-3,22,N ugm-3,1,N ugm-3,2,N ugm-3,2,N ugm-3,3,N ugm-3
+03-04-2025,4,N ugm-3,2,N ugm-3,0,N ugm-3,3,N ugm-3,6,N ugm-3,1,N ugm-3,4,N ugm-3,1,N ugm-3,3,N ugm-3,1,N ugm-3,6,N ugm-3,19,N ugm-3,1,N ugm-3,2,N ugm-3,1,N ugm-3,3,N ugm-3
+04-04-2025,2,N ugm-3,2,N ugm-3,0,N ugm-3,3,N ugm-3,6,N ugm-3,2,N ugm-3,3,N ugm-3,1,N ugm-3,3,N ugm-3,1,N ugm-3,3,N ugm-3,20,N ugm-3,1,N ugm-3,2,N ugm-3,2,N ugm-3,2,N ugm-3
+05-04-2025,3,N ugm-3,1,N ugm-3,0,N ugm-3,2,N ugm-3,4,N ugm-3,1,N ugm-3,2,N ugm-3,0,N ugm-3,2,N ugm-3,1,N ugm-3,2,N ugm-3,14,N ugm-3,1,N ugm-3,1,N ugm-3,1,N ugm-3,2,N ugm-3
+06-04-2025,2,N ugm-3,1,N ugm-3,0,N ugm-3,2,N ugm-3,4,N ugm-3,1,N ugm-3,2,N ugm-3,0,N ugm-3,2,N ugm-3,1,N ugm-3,3,N ugm-3,14,N ugm-3,0,N ugm-3,2,N ugm-3,1,N ugm-3,1,N ugm-3
+07-04-2025,5,N ugm-3,2,N ugm-3,0,N ugm-3,4,N ugm-3,8,N ugm-3,2,N ugm-3,4,N ugm-3,1,N ugm-3,3,N ugm-3,1,N ugm-3,10,N ugm-3,33,N ugm-3,1,N ugm-3,5,N ugm-3,2,N ugm-3,3,N ugm-3
+08-04-2025,9,N ugm-3,3,N ugm-3,2,N ugm-3,5,N ugm-3,11,N ugm-3,5,N ugm-3,6,N ugm-3,1,N ugm-3,4,N ugm-3,3,N ugm-3,15,N ugm-3,40,N ugm-3,2,N ugm-3,11,N ugm-3,3,N ugm-3,6,N ugm-3
+09-04-2025,4,N ugm-3,2,N ugm-3,0,N ugm-3,4,N ugm-3,8,N ugm-3,3,N ugm-3,3,N ugm-3,1,N ugm-3,4,N ugm-3,4,N ugm-3,7,N ugm-3,35,N ugm-3,3,N ugm-3,9,N ugm-3,2,N ugm-3,3,N ugm-3
+10-04-2025,16,N ugm-3,4,N ugm-3,4,N ugm-3,3,N ugm-3,7,N ugm-3,3,N ugm-3,9,N ugm-3,1,N ugm-3,3,N ugm-3,3,N ugm-3,22,N ugm-3,30,N ugm-3,7,N ugm-3,9,N ugm-3,4,N ugm-3,4,N ugm-3
+11-04-2025,35,N ugm-3,3,N ugm-3,2,N ugm-3,4,N ugm-3,7,N ugm-3,7,N ugm-3,20,N ugm-3,5,N ugm-3,6,N ugm-3,3,N ugm-3,18,N ugm-3,29,N ugm-3,8,N ugm-3,17,N ugm-3,2,N ugm-3,4,N ugm-3
+12-04-2025,25,N ugm-3,1,N ugm-3,1,N ugm-3,4,N ugm-3,4,N ugm-3,5,N ugm-3,13,N ugm-3,1,N ugm-3,3,N ugm-3,2,N ugm-3,11,N ugm-3,23,N ugm-3,2,N ugm-3,5,N ugm-3,2,N ugm-3,2,N ugm-3
+13-04-2025,11,N ugm-3,1,N ugm-3,0,N ugm-3,2,N ugm-3,2,N ugm-3,2,N ugm-3,11,N ugm-3,1,N ugm-3,1,N ugm-3,0,N ugm-3,7,N ugm-3,13,N ugm-3,1,N ugm-3,2,N ugm-3,1,N ugm-3,2,N ugm-3
+14-04-2025,19,N ugm-3,1,N ugm-3,0,N ugm-3,2,N ugm-3,2,N ugm-3,3,N ugm-3,11,N ugm-3,1,N ugm-3,1,N ugm-3,1,N ugm-3,16,N ugm-3,34,N ugm-3,2,N ugm-3,2,N ugm-3,1,N ugm-3,2,N ugm-3
+15-04-2025,6,N ugm-3,2,N ugm-3,1,N ugm-3,3,N ugm-3,8,N ugm-3,2,N ugm-3,4,N ugm-3,1,N ugm-3,4,N ugm-3,1,N ugm-3,6,N ugm-3,28,N ugm-3,9,N ugm-3,2,N ugm-3,1,N ugm-3,3,N ugm-3
+16-04-2025,12,N ugm-3,1,N ugm-3,0,N ugm-3,2,N ugm-3,1,N ugm-3,2,N ugm-3,7,N ugm-3,1,N ugm-3,1,N ugm-3,1,N ugm-3,9,N ugm-3,23,N ugm-3,2,N ugm-3,2,N ugm-3,1,N ugm-3,2,N ugm-3
+17-04-2025,19,N ugm-3,1,N ugm-3,0,N ugm-3,3,N ugm-3,6,N ugm-3,4,N ugm-3,11,N ugm-3,1,N ugm-3,3,N ugm-3,1,N ugm-3,24,N ugm-3,37,N ugm-3,4,N ugm-3,3,N ugm-3,2,N ugm-3,4,N ugm-3
+18-04-2025,9,N ugm-3,1,N ugm-3,0,N ugm-3,2,N ugm-3,4,N ugm-3,2,N ugm-3,7,N ugm-3,0,N ugm-3,2,N ugm-3,0,N ugm-3,No data,N ugm-3,25,N ugm-3,1,N ugm-3,2,N ugm-3,1,N ugm-3,2,N ugm-3
+19-04-2025,4,N ugm-3,1,N ugm-3,0,N ugm-3,2,N ugm-3,4,N ugm-3,1,N ugm-3,2,N ugm-3,0,N ugm-3,2,N ugm-3,1,N ugm-3,No data,N ugm-3,13,N ugm-3,0,N ugm-3,2,N ugm-3,1,N ugm-3,2,N ugm-3
+20-04-2025,5,N ugm-3,1,N ugm-3,0,N ugm-3,2,N ugm-3,2,N ugm-3,1,N ugm-3,2,N ugm-3,0,N ugm-3,1,N ugm-3,0,N ugm-3,No data,N ugm-3,16,N ugm-3,0,N ugm-3,2,N ugm-3,1,N ugm-3,1,N ugm-3
+21-04-2025,13,N ugm-3,1,N ugm-3,1,N ugm-3,2,N ugm-3,4,N ugm-3,3,N ugm-3,11,N ugm-3,1,N ugm-3,2,N ugm-3,0,N ugm-3,No data,N ugm-3,32,N ugm-3,2,N ugm-3,2,N ugm-3,1,N ugm-3,2,N ugm-3
+22-04-2025,19,N ugm-3,1,N ugm-3,0,N ugm-3,4,N ugm-3,3,N ugm-3,3,N ugm-3,11,N ugm-3,1,N ugm-3,2,N ugm-3,1,N ugm-3,No data,N ugm-3,37,N ugm-3,4,N ugm-3,3,N ugm-3,2,N ugm-3,3,N ugm-3
+23-04-2025,5,N ugm-3,2,N ugm-3,1,N ugm-3,2,N ugm-3,7,N ugm-3,1,N ugm-3,4,N ugm-3,1,N ugm-3,2,N ugm-3,1,N ugm-3,No data,N ugm-3,26,N ugm-3,2,N ugm-3,2,N ugm-3,1,N ugm-3,3,N ugm-3
+24-04-2025,5,N ugm-3,2,N ugm-3,1,N ugm-3,2,N ugm-3,7,N ugm-3,1,N ugm-3,4,N ugm-3,0,N ugm-3,3,N ugm-3,0,N ugm-3,No data,N ugm-3,33,N ugm-3,1,N ugm-3,4,N ugm-3,1,N ugm-3,3,N ugm-3
+25-04-2025,8,N ugm-3,3,N ugm-3,4,N ugm-3,4,N ugm-3,7,N ugm-3,4,N ugm-3,7,N ugm-3,1,N ugm-3,3,N ugm-3,1,N ugm-3,No data,N ugm-3,33,N ugm-3,1,N ugm-3,4,N ugm-3,2,N ugm-3,3,N ugm-3
+26-04-2025,11,N ugm-3,1,N ugm-3,1,N ugm-3,2,N ugm-3,4,N ugm-3,2,N ugm-3,9,N ugm-3,0,N ugm-3,2,N ugm-3,0,N ugm-3,No data,N ugm-3,27,N ugm-3,2,N ugm-3,2,N ugm-3,1,N ugm-3,3,N ugm-3
+27-04-2025,12,N ugm-3,1,N ugm-3,0,N ugm-3,4,N ugm-3,3,N ugm-3,2,N ugm-3,10,N ugm-3,1,N ugm-3,1,N ugm-3,0,N ugm-3,No data,N ugm-3,18,N ugm-3,2,N ugm-3,2,N ugm-3,1,N ugm-3,2,N ugm-3
+28-04-2025,32,N ugm-3,2,N ugm-3,3,N ugm-3,5,N ugm-3,5,N ugm-3,6,N ugm-3,13,N ugm-3,1,N ugm-3,4,N ugm-3,1,N ugm-3,No data,N ugm-3,38,N ugm-3,5,N ugm-3,4,N ugm-3,3,N ugm-3,5,N ugm-3
+29-04-2025,17,N ugm-3,2,N ugm-3,1,N ugm-3,4,N ugm-3,8,N ugm-3,5,N ugm-3,8,N ugm-3,0,N ugm-3,4,N ugm-3,2,N ugm-3,No data,N ugm-3,38,N ugm-3,1,N ugm-3,7,N ugm-3,3,N ugm-3,4,N ugm-3
+30-04-2025,29,N ugm-3,2,N ugm-3,4,N ugm-3,4,N ugm-3,7,N ugm-3,10,N ugm-3,10,N ugm-3,0,N ugm-3,3,N ugm-3,2,N ugm-3,17,N ugm-3,41,N ugm-3,1,N ugm-3,4,N ugm-3,2,N ugm-3,6,N ugm-3
+01-05-2025,17,N ugm-3,1,N ugm-3,0,N ugm-3,3,N ugm-3,4,N ugm-3,5,N ugm-3,11,N ugm-3,0,N ugm-3,2,N ugm-3,1,N ugm-3,16,N ugm-3,26,N ugm-3,3,N ugm-3,3,N ugm-3,3,N ugm-3,3,N ugm-3
+02-05-2025,7,N ugm-3,2,N ugm-3,1,N ugm-3,2,N ugm-3,5,N ugm-3,2,N ugm-3,4,N ugm-3,0,N ugm-3,2,N ugm-3,0,N ugm-3,No data,N ugm-3,16,N ugm-3,6,N ugm-3,2,N ugm-3,1,N ugm-3,3,N ugm-3
+03-05-2025,5,N ugm-3,1,N ugm-3,0,N ugm-3,2,N ugm-3,3,N ugm-3,2,N ugm-3,5,N ugm-3,0,N ugm-3,1,N ugm-3,1,N ugm-3,No data,N ugm-3,12,N ugm-3,6,N ugm-3,1,N ugm-3,1,N ugm-3,2,N ugm-3
+04-05-2025,2,N ugm-3,1,N ugm-3,0,N ugm-3,2,N ugm-3,3,N ugm-3,1,N ugm-3,3,N ugm-3,0,N ugm-3,1,N ugm-3,0,N ugm-3,No data,N ugm-3,20,N ugm-3,1,N ugm-3,1,N ugm-3,1,N ugm-3,1,N ugm-3
+05-05-2025,4,N ugm-3,1,N ugm-3,0,N ugm-3,2,N ugm-3,3,N ugm-3,1,N ugm-3,3,N ugm-3,0,N ugm-3,2,N ugm-3,1,N ugm-3,No data,N ugm-3,21,N ugm-3,1,N ugm-3,2,N ugm-3,1,N ugm-3,1,N ugm-3
+06-05-2025,6,N ugm-3,2,N ugm-3,1,N ugm-3,3,N ugm-3,6,N ugm-3,2,N ugm-3,4,N ugm-3,0,N ugm-3,2,N ugm-3,2,N ugm-3,No data,N ugm-3,32,N ugm-3,3,N ugm-3,3,N ugm-3,1,N ugm-3,3,N ugm-3
+07-05-2025,11,N ugm-3,5,N ugm-3,1,N ugm-3,7,N ugm-3,6,N ugm-3,6,N ugm-3,11,N ugm-3,3,N ugm-3,5,N ugm-3,1,N ugm-3,No data,N ugm-3,25,N ugm-3,5,N ugm-3,2,N ugm-3,2,N ugm-3,3,N ugm-3
+08-05-2025,3,N ugm-3,1,N ugm-3,0,N ugm-3,2,N ugm-3,6,N ugm-3,1,N ugm-3,2,N ugm-3,0,N ugm-3,2,N ugm-3,1,N ugm-3,3,N ugm-3,29,N ugm-3,2,N ugm-3,2,N ugm-3,1,N ugm-3,2,N ugm-3
+09-05-2025,4,N ugm-3,2,N ugm-3,1,N ugm-3,3,N ugm-3,6,N ugm-3,2,N ugm-3,5,N ugm-3,0,N ugm-3,2,N ugm-3,1,N ugm-3,10,N ugm-3,32,N ugm-3,1,N ugm-3,4,N ugm-3,1,N ugm-3,2,N ugm-3
+10-05-2025,5,N ugm-3,2,N ugm-3,1,N ugm-3,2,N ugm-3,4,N ugm-3,2,N ugm-3,3,N ugm-3,0,N ugm-3,2,N ugm-3,1,N ugm-3,8,N ugm-3,21,N ugm-3,1,N ugm-3,2,N ugm-3,1,N ugm-3,2,N ugm-3
+11-05-2025,3,N ugm-3,1,N ugm-3,0,N ugm-3,2,N ugm-3,3,N ugm-3,1,N ugm-3,2,N ugm-3,0,N ugm-3,1,N ugm-3,1,N ugm-3,4,N ugm-3,15,N ugm-3,0,N ugm-3,1,N ugm-3,0,N ugm-3,1,N ugm-3
+12-05-2025,7,N ugm-3,2,N ugm-3,1,N ugm-3,2,N ugm-3,5,N ugm-3,2,N ugm-3,5,N ugm-3,0,N ugm-3,2,N ugm-3,1,N ugm-3,13,N ugm-3,22,N ugm-3,1,N ugm-3,3,N ugm-3,1,N ugm-3,2,N ugm-3
+13-05-2025,3,N ugm-3,2,N ugm-3,0,N ugm-3,2,N ugm-3,4,N ugm-3,1,N ugm-3,3,N ugm-3,0,N ugm-3,2,N ugm-3,2,N ugm-3,4,N ugm-3,19,N ugm-3,1,N ugm-3,1,N ugm-3,1,N ugm-3,2,N ugm-3
+14-05-2025,3,N ugm-3,1,N ugm-3,0,N ugm-3,2,N ugm-3,4,N ugm-3,1,N ugm-3,3,N ugm-3,0,N ugm-3,2,N ugm-3,1,N ugm-3,4,N ugm-3,23,N ugm-3,2,N ugm-3,1,N ugm-3,1,N ugm-3,2,N ugm-3
+15-05-2025,3,N ugm-3,1,N ugm-3,0,N ugm-3,2,N ugm-3,5,N ugm-3,1,N ugm-3,3,N ugm-3,0,N ugm-3,2,N ugm-3,1,N ugm-3,4,N ugm-3,23,N ugm-3,2,N ugm-3,2,N ugm-3,0,N ugm-3,1,N ugm-3
+16-05-2025,3,N ugm-3,1,N ugm-3,0,N ugm-3,2,N ugm-3,4,N ugm-3,2,N ugm-3,4,N ugm-3,1,N ugm-3,2,N ugm-3,1,N ugm-3,4,N ugm-3,18,N ugm-3,6,N ugm-3,2,N ugm-3,1,N ugm-3,2,N ugm-3
+17-05-2025,7,N ugm-3,1,N ugm-3,1,N ugm-3,2,N ugm-3,3,N ugm-3,2,N ugm-3,2,N ugm-3,0,N ugm-3,2,N ugm-3,1,N ugm-3,6,N ugm-3,18,N ugm-3,2,N ugm-3,2,N ugm-3,0,N ugm-3,2,N ugm-3
+18-05-2025,3,N ugm-3,1,N ugm-3,0,N ugm-3,2,N ugm-3,3,N ugm-3,1,N ugm-3,2,N ugm-3,0,N ugm-3,1,N ugm-3,1,N ugm-3,3,N ugm-3,No data,N ugm-3,1,N ugm-3,1,N ugm-3,0,N ugm-3,1,N ugm-3
+19-05-2025,5,N ugm-3,1,N ugm-3,0,N ugm-3,2,N ugm-3,5,N ugm-3,1,N ugm-3,3,N ugm-3,0,N ugm-3,2,N ugm-3,1,N ugm-3,6,N ugm-3,No data,N ugm-3,2,N ugm-3,2,N ugm-3,1,N ugm-3,2,N ugm-3
+20-05-2025,7,N ugm-3,2,N ugm-3,1,N ugm-3,2,N ugm-3,4,N ugm-3,2,N ugm-3,5,N ugm-3,1,N ugm-3,2,N ugm-3,1,N ugm-3,8,N ugm-3,No data,N ugm-3,2,N ugm-3,2,N ugm-3,1,N ugm-3,3,N ugm-3
+21-05-2025,7,N ugm-3,2,N ugm-3,0,N ugm-3,2,N ugm-3,4,N ugm-3,2,N ugm-3,5,N ugm-3,1,N ugm-3,2,N ugm-3,1,N ugm-3,8,N ugm-3,20,N ugm-3,4,N ugm-3,2,N ugm-3,1,N ugm-3,2,N ugm-3
+22-05-2025,6,N ugm-3,2,N ugm-3,1,N ugm-3,2,N ugm-3,8,N ugm-3,2,N ugm-3,3,N ugm-3,0,N ugm-3,2,N ugm-3,1,N ugm-3,12,N ugm-3,28,N ugm-3,2,N ugm-3,2,N ugm-3,1,N ugm-3,3,N ugm-3
+23-05-2025,15,N ugm-3,1,N ugm-3,1,N ugm-3,3,N ugm-3,4,N ugm-3,3,N ugm-3,13,N ugm-3,1,N ugm-3,2,N ugm-3,1,N ugm-3,12,N ugm-3,24,N ugm-3,4,N ugm-3,2,N ugm-3,1,N ugm-3,3,N ugm-3
+24-05-2025,14,N ugm-3,1,N ugm-3,0,N ugm-3,2,N ugm-3,2,N ugm-3,2,N ugm-3,11,N ugm-3,0,N ugm-3,1,N ugm-3,0,N ugm-3,11,N ugm-3,14,N ugm-3,3,N ugm-3,2,N ugm-3,1,N ugm-3,2,N ugm-3
+25-05-2025,7,N ugm-3,1,N ugm-3,0,N ugm-3,2,N ugm-3,1,N ugm-3,2,N ugm-3,9,N ugm-3,0,N ugm-3,1,N ugm-3,0,N ugm-3,7,N ugm-3,8,N ugm-3,0,N ugm-3,2,N ugm-3,0,N ugm-3,2,N ugm-3
+26-05-2025,9,N ugm-3,1,N ugm-3,0,N ugm-3,2,N ugm-3,1,N ugm-3,2,N ugm-3,7,N ugm-3,0,N ugm-3,1,N ugm-3,0,N ugm-3,7,N ugm-3,13,N ugm-3,1,N ugm-3,2,N ugm-3,0,N ugm-3,2,N ugm-3
+27-05-2025,16,N ugm-3,1,N ugm-3,0,N ugm-3,2,N ugm-3,2,N ugm-3,2,N ugm-3,12,N ugm-3,1,N ugm-3,1,N ugm-3,0,N ugm-3,18,N ugm-3,26,N ugm-3,4,N ugm-3,2,N ugm-3,1,N ugm-3,3,N ugm-3
+28-05-2025,13,N ugm-3,1,N ugm-3,0,N ugm-3,2,N ugm-3,2,N ugm-3,3,N ugm-3,12,N ugm-3,0,N ugm-3,1,N ugm-3,1,N ugm-3,15,N ugm-3,17,N ugm-3,5,N ugm-3,2,N ugm-3,1,N ugm-3,3,N ugm-3
+29-05-2025,12,N ugm-3,1,N ugm-3,0,N ugm-3,2,N ugm-3,2,N ugm-3,2,N ugm-3,10,N ugm-3,1,N ugm-3,1,N ugm-3,1,N ugm-3,14,N ugm-3,15,N ugm-3,3,N ugm-3,2,N ugm-3,1,N ugm-3,3,N ugm-3
+30-05-2025,15,N ugm-3,1,N ugm-3,0,N ugm-3,3,N ugm-3,2,N ugm-3,3,N ugm-3,14,N ugm-3,1,N ugm-3,2,N ugm-3,1,N ugm-3,18,N ugm-3,22,N ugm-3,5,N ugm-3,2,N ugm-3,1,N ugm-3,4,N ugm-3
+31-05-2025,13,N ugm-3,1,N ugm-3,0,N ugm-3,3,N ugm-3,1,N ugm-3,2,N ugm-3,13,N ugm-3,0,N ugm-3,1,N ugm-3,0,N ugm-3,15,N ugm-3,17,N ugm-3,4,N ugm-3,2,N ugm-3,1,N ugm-3,2,N ugm-3
+01-06-2025,7,N ugm-3,0,N ugm-3,1,N ugm-3,1,N ugm-3,1,N ugm-3,1,N ugm-3,9,N ugm-3,0,N ugm-3,1,N ugm-3,0,N ugm-3,8,N ugm-3,9,N ugm-3,1,N ugm-3,1,N ugm-3,1,N ugm-3,2,N ugm-3
+02-06-2025,14,N ugm-3,0,N ugm-3,1,N ugm-3,1,N ugm-3,2,N ugm-3,1,N ugm-3,10,N ugm-3,1,N ugm-3,1,N ugm-3,1,N ugm-3,12,N ugm-3,18,N ugm-3,4,N ugm-3,1,N ugm-3,1,N ugm-3,2,N ugm-3
+03-06-2025,11,N ugm-3,0,N ugm-3,1,N ugm-3,1,N ugm-3,1,N ugm-3,1,N ugm-3,9,N ugm-3,1,N ugm-3,1,N ugm-3,0,N ugm-3,13,N ugm-3,14,N ugm-3,3,N ugm-3,1,N ugm-3,1,N ugm-3,3,N ugm-3
+04-06-2025,14,N ugm-3,0,N ugm-3,1,N ugm-3,1,N ugm-3,2,N ugm-3,1,N ugm-3,11,N ugm-3,1,N ugm-3,1,N ugm-3,1,N ugm-3,12,N ugm-3,18,N ugm-3,4,N ugm-3,1,N ugm-3,1,N ugm-3,3,N ugm-3
+05-06-2025,19,N ugm-3,0,N ugm-3,1,N ugm-3,1,N ugm-3,1,N ugm-3,2,N ugm-3,13,N ugm-3,1,N ugm-3,1,N ugm-3,1,N ugm-3,18,N ugm-3,23,N ugm-3,5,N ugm-3,2,N ugm-3,1,N ugm-3,2,N ugm-3
+06-06-2025,15,N ugm-3,0,N ugm-3,1,N ugm-3,1,N ugm-3,2,N ugm-3,1,N ugm-3,12,N ugm-3,1,N ugm-3,1,N ugm-3,1,N ugm-3,14,N ugm-3,21,N ugm-3,4,N ugm-3,1,N ugm-3,1,N ugm-3,3,N ugm-3
+07-06-2025,12,N ugm-3,0,N ugm-3,1,N ugm-3,1,N ugm-3,2,N ugm-3,1,N ugm-3,12,N ugm-3,1,N ugm-3,1,N ugm-3,1,N ugm-3,8,N ugm-3,16,N ugm-3,8,N ugm-3,1,N ugm-3,1,N ugm-3,2,N ugm-3
+08-06-2025,8,N ugm-3,0,N ugm-3,1,N ugm-3,1,N ugm-3,1,N ugm-3,1,N ugm-3,9,N ugm-3,1,N ugm-3,0,N ugm-3,1,N ugm-3,6,N ugm-3,9,N ugm-3,1,N ugm-3,1,N ugm-3,1,N ugm-3,1,N ugm-3
